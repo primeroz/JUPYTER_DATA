@@ -1,0 +1,541 @@
+Ticker,Nome delle partecipazioni,% del valore di mercato,Settore,Regione,Valore di mercato,Azioni
+NOVO B,Novo Nordisk A/S Class B,"3,617%",Pharmaceuticals,DK,"134.636.450,13 €",1.082.962
+ASML,ASML Holding NV,"3,2297%",Production Technology Equipment,NL,"120.220.906,40 €",138.058
+NESN,Nestle SA,"2,4515%",Food Products,CH,"91.253.436,07 €",935.237
+SHEL,Shell plc,"2,0154%",Integrated Oil and Gas,GB,"75.018.209,23 €",2.275.107
+AZN,AstraZeneca plc,"1,987%",Pharmaceuticals,GB,"73.961.355,80 €",517.338
+NOVN,Novartis AG,"1,8517%",Pharmaceuticals,CH,"68.926.126,60 €",724.530
+SAP,SAP SE,"1,7121%",Software,DE,"63.730.133,64 €",384.009
+MC,LVMH Moet Hennessy Louis Vuitton SE,"1,7102%",Clothing and Accessories,FR,"63.657.772,90 €",86.621
+ROG,Roche Holding AG,"1,5358%",Pharmaceuticals,CH,"57.167.528,29 €",242.374
+HSBA,HSBC Holdings plc,"1,468%",Banks,GB,"54.645.602,11 €",6.690.671
+TTE,TotalEnergies SE,"1,2994%",Integrated Oil and Gas,FR,"48.368.086,04 €",721.804
+SIE,Siemens AG,"1,2358%",Diversified Industrials,DE,"46.001.568,62 €",260.987
+ULVR,Unilever plc,"1,1711%",Personal Products,GB,"43.590.403,56 €",868.604
+SU,Schneider Electric SE,"1,1413%",Electrical Components,FR,"42.484.248,25 €",186.785
+ALV,Allianz SE,"0,9851%",Full Line Insurance,DE,"36.670.170,80 €",136.676
+SAN,Sanofi SA,"0,919%",Pharmaceuticals,FR,"34.207.625,76 €",381.101
+BP.,BP plc,"0,8982%",Integrated Oil and Gas,GB,"33.432.944,30 €",5.839.754
+AIR,Airbus SE,"0,8583%",Aerospace,NL,"31.947.495,70 €",204.923
+UBSG,UBS Group AG,"0,8242%",Asset Managers and Custodians,CH,"30.681.057,87 €",1.054.694
+GSK,GSK plc,"0,7837%",Pharmaceuticals,GB,"29.172.580,30 €",1.408.103
+CFR,Cie Financiere Richemont SA,"0,7346%",Luxury Items,CH,"27.345.514,99 €",185.918
+SAN,Banco Santander SA,"0,7282%",Banks,ES,"27.105.726,52 €",5.606.728
+REL,RELX plc,"0,7138%",Publishing,GB,"26.569.292,50 €",663.186
+ABBN,ABB Ltd.,"0,7091%",Electrical Components,CH,"26.396.459,93 €",523.320
+RMS,Hermes International SCA,"0,6995%",Clothing and Accessories,FR,"26.038.016,00 €",11.966
+SAF,Safran SA,"0,6853%",Aerospace,FR,"25.508.088,10 €",119.141
+DTE,Deutsche Telekom AG,"0,6772%",Telecommunications Services,DE,"25.209.031,53 €",1.130.957
+IBE,Iberdrola SA,"0,6676%",Conventional Electricity,ES,"24.850.786,40 €",2.053.784
+RIO,Rio Tinto plc,"0,658%",General Mining,GB,"24.491.291,69 €",381.348
+BNP,BNP Paribas SA,"0,6525%",Banks,FR,"24.289.676,80 €",358.784
+ZURN,Zurich Insurance Group AG,"0,6523%",Full Line Insurance,CH,"24.280.065,60 €",50.199
+GLEN,Glencore plc,"0,6435%",General Mining,JE,"23.952.064,34 €",4.248.121
+DGE,Diageo plc,"0,6413%",Distillers and Vintners,GB,"23.870.516,57 €",773.743
+EL,EssilorLuxottica SA,"0,5878%",Medical Supplies,FR,"21.879.231,60 €",106.572
+MUV2,Muenchener Rueckversicherungs-Gesellschaft AG in Muenchen,"0,5862%",Reinsurance,DE,"21.821.682,40 €",47.656
+UCG,UniCredit SPA,"0,5679%",Banks,IT,"21.140.048,85 €",581.010
+CS,Axa SA,"0,5522%",Full Line Insurance,FR,"20.554.323,80 €",621.916
+ISP,Intesa Sanpaolo SPA (Registered),"0,5473%",Banks,IT,"20.372.205,18 €",5.649.530
+BBVA,Banco Bilbao Vizcaya Argentaria SA,"0,5458%",Banks,ES,"20.316.882,88 €",2.043.952
+ABI,Anheuser-Busch InBev SA/NV,"0,5388%",Brewers,BE,"20.055.620,54 €",348.067
+MBG,Mercedes-Benz Group AG,"0,5373%",Automobiles,DE,"20.000.211,20 €",301.208
+BATS,British American Tobacco plc,"0,5366%",Tobacco,GB,"19.975.604,92 €",705.271
+DG,Vinci SA,"0,5257%",Construction,FR,"19.567.173,15 €",170.967
+INGA,ING Groep NV,"0,5205%",Banks,NL,"19.375.516,01 €",1.184.033
+OR,L'Oreal SA,"0,4988%",Cosmetics,FR,"18.568.651,20 €",41.072
+LSEG,London Stock Exchange Group plc,"0,4891%",Financial Data Providers,GB,"18.206.022,13 €",169.433
+ENEL,Enel SPA,"0,4864%",Conventional Electricity,IT,"18.106.729,47 €",2.720.362
+PRX,Prosus NV,"0,4755%",Consumer Digital Services,NL,"17.701.447,38 €",530.301
+BA.,BAE Systems plc,"0,4677%",Defense,GB,"17.408.253,31 €",1.066.324
+CRH,CRH plc,"0,4658%",Cement,IE,"17.339.390,74 €",241.656
+IFX,Infineon Technologies AG,"0,4514%",Semiconductors,DE,"16.804.131,30 €",456.324
+AI,Air Liquide SA,"0,4422%",Specialty Chemicals,FR,"16.459.034,76 €",91.206
+,L'Oreal SA,"0,4394%",Cosmetics,FR,"16.355.169,60 €",36.176
+ITX,Industria de Diseno Textil SA,"0,4301%",Apparel Retailers,ES,"16.009.563,24 €",367.529
+RACE,Ferrari NV,"0,4201%",Automobiles,NL,"15.637.191,60 €",41.434
+RR.,Rolls-Royce Holdings plc,"0,4184%",Aerospace,GB,"15.575.863,42 €",2.929.165
+ATCO A,Atlas Copco AB Class A,"0,4134%",Machinery: Construction and Handling,SE,"15.389.714,76 €",875.058
+CPG,Compass Group plc,"0,4133%",Vending and Catering Service,GB,"15.385.818,26 €",598.485
+STLAM,Stellantis NV,"0,4054%",Automobiles,NL,"15.091.541,20 €",747.106
+BAS,Basf Se,"0,4052%",Chemicals: Diversified,DE,"15.082.619,60 €",311.560
+SIKA,Sika AG,"0,398%",Building Materials: Other,CH,"14.814.008,53 €",53.164
+HOLN,Holcim AG,"0,3927%",Cement,CH,"14.616.112,25 €",181.704
+LLOY,Lloyds Banking Group plc,"0,3885%",Banks,GB,"14.459.791,83 €",22.206.791
+ALC,Alcon Inc.,"0,3796%",Medical Supplies,CH,"14.129.435,58 €",172.243
+INVE B,Investor AB Class B,"0,3695%",Diversified Financial Services,SE,"13.752.289,36 €",552.097
+,Air Liquide SA,"0,3654%",Specialty Chemicals,FR,"13.600.006,98 €",75.363
+BARC,Barclays plc,"0,3648%",Banks,GB,"13.578.409,83 €",5.262.589
+EXPN,Experian plc,"0,3646%",Professional Business Support Services,JE,"13.571.914,77 €",320.825
+NG.,National Grid plc,"0,3615%",Multi-Utilities,GB,"13.456.501,57 €",1.300.289
+DHL,DHL Group,"0,361%",Delivery Services,DE,"13.437.172,18 €",347.573
+FERGl,Ferguson plc,"0,3595%",Industrial Suppliers,JE,"13.381.547,27 €",71.760
+ADS,adidas AG,"0,3595%",Footwear,DE,"13.380.237,00 €",57.798
+VOLV B,Volvo AB Class B,"0,3563%",Commercial Vehicles and Parts,SE,"13.261.750,25 €",536.935
+NDA FI,Nordea Bank Abp,"0,3543%",Banks,FI,"13.187.364,30 €",1.167.540
+RKT,Reckitt Benckiser Group plc,"0,3517%",Nondurable Household Products,GB,"13.093.030,97 €",250.760
+SGO,Cie de Saint-Gobain SA,"0,3472%",Building Materials: Other,FR,"12.922.131,12 €",160.364
+BN,Danone SA,"0,3459%",Food Products,FR,"12.876.513,36 €",217.803
+LONN,Lonza Group AG,"0,3368%",Biotechnology,CH,"12.537.771,38 €",25.245
+WKL,Wolters Kluwer NV,"0,3363%",Publishing,NL,"12.516.338,95 €",85.699
+AAL,Anglo American plc,"0,3348%",General Mining,GB,"12.461.307,15 €",422.725
+ADYEN,Adyen NV,"0,3282%",Transaction Processing Services,NL,"12.216.472,80 €",10.311
+GIVN,Givaudan SA,"0,3231%",Specialty Chemicals,CH,"12.026.926,73 €",2.780
+SREN,Swiss Re AG,"0,3179%",Reinsurance,CH,"11.834.416,32 €",101.049
+DB1,Deutsche Boerse AG,"0,3158%",Investment Services,DE,"11.756.446,20 €",64.278
+III,3i Group plc,"0,3006%",Asset Managers and Custodians,GB,"11.187.580,53 €",333.187
+ENI,Eni SPA,"0,3003%",Integrated Oil and Gas,IT,"11.178.749,86 €",771.161
+DBK,Deutsche Bank AG,"0,2913%",Banks,DE,"10.843.835,39 €",712.192
+FLTR,Flutter Entertainment plc,"0,2898%",Casinos and Gambling,IE,"10.787.214,73 €",61.730
+CAP,Capgemini SE,"0,2812%",Computer Services,FR,"10.468.396,80 €",56.403
+ASM,ASM International NV,"0,2811%",Production Technology Equipment,NL,"10.464.709,20 €",16.346
+G,Assicurazioni Generali SPA,"0,2754%",Full Line Insurance,IT,"10.250.471,20 €",434.342
+AHT,Ashtead Group plc,"0,2739%",Commercial Vehicle-Equipment Leasing,GB,"10.196.449,39 €",152.849
+AMS,Amadeus IT Group SA,"0,2734%",Computer Services,ES,"10.175.136,84 €",155.726
+BMW,Bayerische Motoren Werke AG,"0,2713%",Automobiles,DE,"10.099.687,02 €",108.389
+BAYN,Bayer AG,"0,2615%",Pharmaceuticals,DE,"9.733.960,88 €",344.687
+RI,Pernod Ricard SA,"0,2612%",Distillers and Vintners,FR,"9.724.545,60 €",71.008
+EOAN,E.On Se,"0,2556%",Multi-Utilities,DE,"9.515.612,36 €",774.887
+PGHN,Partners Group Holding AG,"0,2553%",Asset Managers and Custodians,CH,"9.501.472,86 €",7.716
+AD,Koninklijke Ahold Delhaize NV,"0,2541%",Food Retailers and Wholesalers,NL,"9.459.896,94 €",331.461
+HLN,Haleon plc,"0,2503%",Pharmaceuticals,GB,"9.317.329,60 €",2.443.699
+ASSA B,Assa Abloy AB Class B,"0,2455%",Building Materials: Other,SE,"9.138.075,07 €",339.628
+VWS,Vestas Wind Systems A/S,"0,2447%",Renewable Energy Equipment,DK,"9.107.073,88 €",352.233
+ML,Cie Generale des Etablissements Michelin SCA,"0,2445%",Tires,FR,"9.102.753,05 €",245.027
+HEIA,Heineken NV,"0,2414%",Brewers,NL,"8.984.945,20 €",97.790
+TSCO,Tesco plc,"0,238%",Food Retailers and Wholesalers,GB,"8.858.984,22 €",2.428.828
+LR,Legrand SA,"0,2371%",Electrical Components,FR,"8.825.152,30 €",89.053
+RWE,Rwe AG,"0,2335%",Multi-Utilities,DE,"8.693.067,76 €",249.514
+DSY,Dassault Systemes SE,"0,2333%",Software,FR,"8.684.500,11 €",234.273
+STMPA,STMicroelectronics NV,"0,2319%",Semiconductors,NL,"8.631.734,96 €",228.021
+DSV,DSV A/S,"0,2311%",Transportation Services,DK,"8.600.488,92 €",60.863
+PRU,Prudential plc,"0,2271%",Life Insurance,GB,"8.452.779,29 €",964.833
+PUB,Publicis Groupe SA,"0,2211%",Media Agencies,FR,"8.229.551,20 €",80.054
+ATCO B,Atlas Copco AB Class B,"0,2201%",Machinery: Construction and Handling,SE,"8.192.062,65 €",539.871
+VOW3,Volkswagen AG Preference Shares,"0,2181%",Automobiles,DE,"8.118.655,00 €",70.597
+EQNR,Equinor ASA,"0,2179%",Integrated Oil and Gas,NO,"8.111.785,84 €",305.360
+RHM,Rheinmetall AG,"0,2154%",Defense,DE,"8.018.337,60 €",15.192
+KER,Kering SA,"0,2145%",Clothing and Accessories,FR,"7.984.558,40 €",25.172
+SSE,SSE plc,"0,2113%",Conventional Electricity,GB,"7.865.459,97 €",382.138
+TEF,Telefonica SA,"0,2057%",Telecommunications Services,ES,"7.655.988,08 €",1.786.695
+SAND,Sandvik AB,"0,2046%",Machinery: Tools,SE,"7.617.187,81 €",377.306
+MRK,Merck KGaA,"0,2027%",Pharmaceuticals,DE,"7.543.782,00 €",45.308
+UMG,Universal Music Group NV,"0,2013%",Radio and TV Broadcasters,NL,"7.492.247,00 €",262.150
+HEXA B,Hexagon AB Class B,"0,2007%",Software,SE,"7.470.184,26 €",740.370
+DTG,Daimler Truck Holding AG,"0,1972%",Commercial Vehicles and Parts,DE,"7.341.084,72 €",187.416
+ORA,Orange SA,"0,1934%",Telecommunications Services,FR,"7.200.346,73 €",671.361
+ARGX,Argenx SE,"0,1895%",Biotechnology,NL,"7.055.215,60 €",20.708
+PHIA,Koninklijke Philips NV,"0,1893%",Medical Equipment,NL,"7.046.264,80 €",283.210
+VNA,Vonovia SE,"0,189%",Real Estate Holding and Development,DE,"7.033.363,20 €",244.214
+STAN,Standard Chartered plc,"0,1885%",Banks,GB,"7.015.306,31 €",769.441
+GLE,Societe Generale SA,"0,1876%",Banks,FR,"6.982.094,46 €",254.914
+NWG,NatWest Group plc,"0,1875%",Banks,GB,"6.978.745,11 €",1.889.035
+CABK,CaixaBank SA,"0,1873%",Banks,ES,"6.973.685,60 €",1.323.280
+IMB,Imperial Brands plc,"0,1871%",Tobacco,GB,"6.963.908,98 €",305.915
+VOD,Vodafone Group plc,"0,1827%",Telecommunications Services,GB,"6.800.555,14 €",7.667.979
+SWED A,Swedbank AB Class A,"0,1809%",Banks,SE,"6.733.542,06 €",352.499
+VIE,Veolia Environnement SA,"0,1803%",Water,FR,"6.712.862,00 €",218.660
+NSIS B,Novonesis (Novozymes) B,"0,18%",Biotechnology,DK,"6.699.405,08 €",122.295
+FER,Ferrovial SE,"0,1793%",Engineering and Contracting Services,NL,"6.674.196,90 €",184.065
+SLHN,Swiss Life Holding AG,"0,1778%",Life Insurance,CH,"6.617.907,80 €",10.324
+CLNX,Cellnex Telecom SA,"0,1771%",Telecommunications Services,ES,"6.590.958,57 €",196.569
+NOKIA,Nokia Oyj,"0,1766%",Telecommunications Equipment,FI,"6.574.787,04 €",1.830.907
+UPM,UPM-Kymmene Oyj,"0,176%",Paper,FI,"6.550.272,80 €",186.352
+DANSKE,Danske Bank A/S,"0,1757%",Banks,DK,"6.541.818,80 €",231.582
+REP,Repsol SA,"0,1725%",Integrated Oil and Gas,ES,"6.420.299,00 €",427.450
+DSFIR,DSM-Firmenich AG,"0,1721%",Food Products,CH,"6.405.876,45 €",60.633
+DNB,DNB Bank ASA,"0,1712%",Banks,NO,"6.373.278,02 €",354.086
+GEBN,Geberit AG,"0,1709%","Building, Roofing/Wallboard and Plumbing",CH,"6.362.306,99 €",11.321
+EVO,Evolution AB,"0,1708%",Casinos and Gambling,SE,"6.356.629,93 €",64.341
+EQT,EQT AB,"0,1654%",Asset Managers and Custodians,SE,"6.155.776,20 €",221.017
+SAMPO,Sampo Oyj Class A,"0,1654%",Property and Casualty Insurance,FI,"6.155.637,44 €",156.076
+LGEN,Legal & General Group plc,"0,164%",Life Insurance,GB,"6.103.229,27 €",2.081.579
+GMAB,Genmab A/S,"0,1595%",Biotechnology,DK,"5.938.380,03 €",22.867
+ERIC B,Telefonaktiebolaget LM Ericsson Class B,"0,1557%",Telecommunications Equipment,SE,"5.794.894,54 €",1.024.513
+KBC,KBC Group NV,"0,1548%",Banks,BE,"5.761.794,22 €",86.177
+PRY,Prysmian SPA,"0,154%",Electrical Components,IT,"5.730.589,56 €",95.478
+HO,Thales SA,"0,1538%",Defense,FR,"5.725.594,05 €",34.357
+CBK,Commerzbank AG,"0,152%",Banks,DE,"5.658.455,88 €",364.122
+SEB A,Skandinaviska Enskilda Banken AB Class A,"0,1518%",Banks,SE,"5.649.607,86 €",432.479
+UCB,Ucb SA,"0,1466%",Pharmaceuticals,BE,"5.455.789,20 €",42.408
+AV.,Aviva plc,"0,1446%",Life Insurance,GB,"5.384.226,74 €",956.634
+IHG,InterContinental Hotels Group plc,"0,1443%",Hotels and Motels,GB,"5.371.951,47 €",57.980
+KNEBV,Kone Oyj Class B,"0,1443%",Machinery: Industrial,FI,"5.371.258,05 €",114.795
+ACA,Credit Agricole SA,"0,141%",Banks,FR,"5.248.719,53 €",351.673
+SHL,Siemens Healthineers AG,"0,1398%",Medical Equipment,DE,"5.202.574,94 €",97.463
+SOON,Sonova Holding AG,"0,1387%",Medical Equipment,CH,"5.161.664,20 €",17.750
+ESSITY B,Essity AB Class B,"0,1362%",Personal Products,SE,"5.070.884,52 €",214.830
+ENGI,Engie SA,"0,136%",Multi-Utilities,FR,"5.063.322,55 €",325.930
+SY1,Symrise AG Class A,"0,1351%",Chemicals: Diversified,DE,"5.028.569,10 €",45.986
+BEI,Beiersdorf AG,"0,1349%",Personal Products,DE,"5.022.513,90 €",34.794
+SGRO,Segro plc,"0,1347%",Industrial REITs,GB,"5.013.821,55 €",469.168
+SDZ,Sandoz Group AG,"0,1329%",Pharmaceuticals,CH,"4.947.269,92 €",151.130
+LOGN,Logitech International SA,"0,1315%",Computer Hardware,CH,"4.894.492,13 €",53.619
+EBS,Erste Group Bank AG,"0,1302%",Banks,AT,"4.847.979,40 €",107.494
+COLO B,Coloplast A/S Class B,"0,129%",Medical Supplies,DK,"4.802.724,29 €",43.432
+HNR1,Hannover Rueck SE,"0,1286%",Reinsurance,DE,"4.788.320,60 €",20.983
+HEN3,Henkel AG & Co. KGaA Preference Shares,"0,1278%",Household Equipment and Products,DE,"4.755.461,44 €",57.212
+INF,Informa plc,"0,1274%",Media Agencies,GB,"4.743.835,35 €",477.100
+ENR,Siemens Energy AG,"0,1262%",Renewable Energy Equipment,DE,"4.698.599,74 €",189.307
+HEI,Heidelberg Materials AG,"0,1257%",Cement,DE,"4.677.740,68 €",48.869
+NXT,Next plc,"0,1255%",Diversified Retailers,GB,"4.673.080,81 €",42.670
+KRX,Kingspan Group plc,"0,1255%",Building Materials: Other,IE,"4.671.513,00 €",52.965
+ALFA,Alfa Laval AB,"0,1237%",Electronic Equipment: Control and Filter,SE,"4.605.575,78 €",108.376
+KNIN,Kuehne + Nagel International AG,"0,123%",Marine Transportation,CH,"4.578.199,18 €",17.549
+SCMN,Swisscom AG,"0,1218%",Telecommunications Services,CH,"4.531.939,33 €",8.909
+STMN,Straumann Holding AG,"0,1207%",Medical Supplies,CH,"4.494.596,30 €",37.623
+VACN,VAT Group AG,"0,1201%",Electronic Equipment: Control and Filter,CH,"4.471.134,78 €",8.999
+AENA,Aena SME SA,"0,1192%",Transportation Services,ES,"4.437.916,00 €",24.710
+SHB A,Svenska Handelsbanken AB Class A,"0,119%",Banks,SE,"4.429.199,33 €",512.675
+PNDORA,Pandora A/S,"0,1177%",Luxury Items,DK,"4.382.478,11 €",29.082
+INVE A,Investor AB Class A,"0,1171%",Diversified Financial Services,SE,"4.359.867,62 €",176.395
+SGSN,SGS SA,"0,1171%",Security Services,CH,"4.357.926,35 €",50.810
+MONC,Moncler SPA,"0,1164%",Clothing and Accessories,IT,"4.330.954,04 €",70.721
+RTO,Rentokil Initial plc,"0,1154%",Professional Business Support Services,GB,"4.297.306,58 €",884.412
+SGE,Sage Group plc,"0,1154%",Software,GB,"4.295.327,45 €",358.184
+MTX,MTU Aero Engines AG,"0,1143%",Aerospace,DE,"4.254.441,50 €",18.619
+FRE,Fresenius SE & Co. KGaA,"0,1136%",Health Care Services,DE,"4.228.910,40 €",144.430
+EPI A,Epiroc AB Class A,"0,1131%",Machinery: Construction and Handling,SE,"4.211.462,42 €",219.864
+MT,ArcelorMittal SA,"0,113%",Iron and Steel,LU,"4.207.608,96 €",174.156
+KRZ,Kerry Group plc Class A,"0,1127%",Food Products,IE,"4.193.342,20 €",53.899
+PKO,Powszechna Kasa Oszczednosci Bank Polski SA,"0,1119%",Banks,PL,"4.163.984,40 €",299.813
+NN,NN Group NV,"0,1118%",Life Insurance,NL,"4.161.199,13 €",97.247
+SKGl,Smurfit Kappa Group plc,"0,1105%",Containers and Packaging,IE,"4.112.889,25 €",91.803
+BNZL,Bunzl plc,"0,1092%",Diversified Industrials,GB,"4.062.961,93 €",117.994
+CARL B,Carlsberg AS Class B,"0,1074%",Brewers,DK,"3.998.065,65 €",32.100
+KPN,Koninklijke KPN NV,"0,1071%",Telecommunications Services,NL,"3.988.065,90 €",1.157.975
+BAER,Julius Baer Group Ltd.,"0,1071%",Asset Managers and Custodians,CH,"3.984.930,23 €",72.166
+EDP,EDP - Energias de Portugal SA,"0,106%",Alternative Electricity,PT,"3.946.804,77 €",1.057.841
+BIRG,Bank of Ireland Group plc,"0,1055%",Banks,IE,"3.928.572,24 €",373.616
+AKZA,Akzo Nobel NV,"0,1032%",Specialty Chemicals,NL,"3.841.152,18 €",59.887
+LISN,Chocoladefabriken Lindt & Spruengli AG,"0,1029%",Food Products,CH,"3.831.018,37 €",35
+TRN,Terna - Rete Elettrica Nazionale,"0,1024%",Conventional Electricity,IT,"3.810.420,90 €",493.450
+,Engie SA,"0,1019%",Multi-Utilities,FR,"3.791.472,10 €",244.060
+LISP,Chocoladefabriken Lindt & Spruengli AG,"0,1009%",Food Products,CH,"3.755.970,44 €",350
+ORSTED,Orsted AS,"0,1003%",Alternative Electricity,DK,"3.733.792,19 €",66.483
+EDEN,Edenred SE,"0,0998%",Transaction Processing Services,FR,"3.716.721,75 €",86.335
+EXO,EXOR NV,"0,0981%",Diversified Financial Services,NL,"3.653.052,90 €",35.501
+BESI,BE Semiconductor Industries NV,"0,0971%",Semiconductors,NL,"3.614.895,00 €",26.777
+SAB,Banco de Sabadell SA,"0,0971%",Banks,ES,"3.613.092,61 €",1.863.860
+SN.,Smith & Nephew plc,"0,0961%",Medical Equipment,GB,"3.577.418,89 €",307.987
+RNO,Renault SA,"0,0954%",Automobiles,FR,"3.551.443,14 €",66.283
+ABF,Associated British Foods plc,"0,0951%",Food Products,GB,"3.539.834,22 €",118.363
+WPP,WPP plc,"0,0942%",Media Agencies,JE,"3.505.893,13 €",365.979
+SRG,Snam SPA,"0,0938%",Pipelines,IT,"3.490.468,26 €",802.591
+ACS,ACS Actividades de Construccion y Servicios SA,"0,0937%",Construction,ES,"3.489.566,56 €",84.863
+AGN,Aegon Ltd.,"0,0937%",Life Insurance,BM,"3.487.481,51 €",586.723
+HLMA,Halma plc,"0,0936%",Electronic Equipment: Gauges and Meters,GB,"3.485.296,34 €",133.502
+HEIO,Heineken Holding NV,"0,0936%",Brewers,NL,"3.482.537,20 €",46.372
+HM B,H & M Hennes & Mauritz AB Class B,"0,0929%",Apparel Retailers,SE,"3.456.809,31 €",212.651
+ADM,Admiral Group plc,"0,0922%",Property and Casualty Insurance,GB,"3.433.279,16 €",107.863
+SCHP,Schindler Holding AG,"0,0916%",Machinery: Industrial,CH,"3.410.593,11 €",14.299
+LDO,Leonardo SPA,"0,0897%",Defense,IT,"3.338.454,80 €",141.640
+BT.A,BT Group plc,"0,0895%",Telecommunications Services,GB,"3.332.227,41 €",2.175.528
+MRO,Melrose Industries plc,"0,0894%",Aerospace,GB,"3.326.738,64 €",460.630
+MB,Mediobanca Banca di Credito Finanziario SPA,"0,0891%",Diversified Financial Services,IT,"3.314.814,36 €",228.293
+WRT1V,Wartsila OYJ Abp,"0,0886%",Machinery: Engines,FI,"3.297.056,79 €",171.677
+1COV,Covestro AG,"0,0864%",Specialty Chemicals,DE,"3.217.758,50 €",65.150
+FBK,FinecoBank Banca Fineco SPA,"0,0862%",Banks,IT,"3.208.479,54 €",216.132
+ANTO,Antofagasta plc,"0,0852%",Copper,GB,"3.172.312,62 €",122.782
+BAMI,Banco BPM SPA,"0,085%",Banks,IT,"3.165.409,47 €",479.317
+ITRK,Intertek Group plc,"0,0838%",Professional Business Support Services,GB,"3.119.268,20 €",55.688
+BOL,Boliden AB,"0,0835%",General Mining,SE,"3.109.751,84 €",96.798
+CNA,Centrica plc,"0,0834%",Multi-Utilities,GB,"3.106.125,70 €",1.871.037
+BVI,Bureau Veritas SA,"0,0813%",Professional Business Support Services,FR,"3.025.953,60 €",109.636
+BNR,Brenntag SE,"0,0813%",Chemicals: Diversified,DE,"3.025.776,82 €",45.859
+PKN,ORLEN SA,"0,0812%",Oil Refining and Marketing,PL,"3.020.878,73 €",203.103
+QIAd,QIAGEN NV,"0,08%",Medical Supplies,NL,"2.979.364,12 €",75.676
+GALP,Galp Energia SGPS SA,"0,0789%",Integrated Oil and Gas,PT,"2.937.695,61 €",152.094
+AUTO,Auto Trader Group plc,"0,0787%",Consumer Digital Services,GB,"2.928.223,79 €",305.901
+URW,Unibail-Rodamco-Westfield,"0,0783%",Retail REITs,FR,"2.913.842,50 €",36.125
+SCA B,Svenska Cellulosa AB SCA Class B,"0,0779%",Forestry,SE,"2.899.012,11 €",205.778
+SAAB B,Saab AB Class B,"0,0777%",Aerospace,SE,"2.892.129,33 €",130.311
+A5G,AIB Group plc,"0,0773%",Banks,IE,"2.876.929,92 €",551.136
+UU.,United Utilities Group plc,"0,0769%",Water,GB,"2.863.372,64 €",240.302
+CA,Carrefour SA,"0,0768%",Food Retailers and Wholesalers,FR,"2.858.233,24 €",190.676
+NHY,Norsk Hydro ASA,"0,0767%",Aluminum,NO,"2.853.252,02 €",458.664
+NESTE,Neste Oyj,"0,0758%",Oil Refining and Marketing,FI,"2.821.494,11 €",146.457
+IMCD,Imcd Nv,"0,0757%",Specialty Chemicals,NL,"2.817.413,40 €",20.211
+FGR,Eiffage SA,"0,0751%",Construction,FR,"2.797.158,65 €",27.599
+MNDI,Mondi plc,"0,0747%",Containers and Packaging,GB,"2.780.089,50 €",151.855
+FME,Fresenius Medical Care AG,"0,0741%",Health Care Services,DE,"2.756.861,52 €",70.364
+SPX,Spirax-Sarco Engineering plc,"0,0733%",Machinery: Industrial,GB,"2.728.316,32 €",26.109
+SKF B,Skf Ab,"0,0723%",Metal Fabricating,SE,"2.690.131,77 €",133.949
+PSON,Pearson plc,"0,0722%",Publishing,GB,"2.686.450,11 €",241.626
+STERV,Stora Enso Oyj,"0,0717%",Paper,FI,"2.670.467,40 €",199.140
+RO,Roche Holding AG (Bearer),"0,0715%",Pharmaceuticals,CH,"2.661.258,98 €",10.310
+ICG,Intermediate Capital Group plc,"0,0711%",Asset Managers and Custodians,GB,"2.648.147,65 €",97.747
+TREL B,Trelleborg AB Class B,"0,0709%",Machinery: Industrial,SE,"2.639.601,17 €",73.686
+CRDA,Croda International plc,"0,0708%",Chemicals: Diversified,GB,"2.634.798,63 €",49.484
+ENX,Euronext NV,"0,0702%",Investment Services,NL,"2.613.915,85 €",28.931
+AGS,Ageas SA/NV,"0,0702%",Life Insurance,BE,"2.612.669,00 €",57.170
+SVT,Severn Trent plc,"0,0687%",Water,GB,"2.556.712,12 €",91.366
+WISE,Wise plc,"0,0686%",Transaction Processing Services,GB,"2.552.260,88 €",267.182
+HEN,Henkel AG & Co. KGaA,"0,0685%",Household Equipment and Products,DE,"2.548.768,00 €",34.630
+MOWI,Mowi ASA,"0,0677%","Farming, Fishing, Ranching and Plantatio",NO,"2.518.307,79 €",152.875
+BALN,Baloise Holding AG,"0,0675%",Full Line Insurance,CH,"2.513.981,95 €",15.793
+AKRBP,Aker BP ASA,"0,067%",Oil: Crude Producers,NO,"2.493.021,97 €",105.696
+SMIN,Smiths Group plc,"0,0669%",Diversified Industrials,GB,"2.490.135,63 €",123.300
+MKS,Marks & Spencer Group plc,"0,0669%",Food Retailers and Wholesalers,GB,"2.489.225,48 €",702.798
+ERF,Eurofins Scientific SE,"0,0667%",Medical Services,LU,"2.482.231,68 €",44.838
+METSO,Metso Oyj,"0,0665%",Machinery: Construction and Handling,FI,"2.475.362,28 €",221.212
+AC,Accor SA,"0,0665%",Hotels and Motels,FR,"2.473.977,80 €",62.020
+RED,Redeia Corp. SA,"0,0663%",Conventional Electricity,ES,"2.469.124,28 €",149.282
+ABN,ABN AMRO Bank NV,"0,0656%",Banks,NL,"2.442.041,65 €",156.041
+WTB,Whitbread plc,"0,0654%",Hotels and Motels,GB,"2.435.878,05 €",70.334
+TEN,Tenaris SA,"0,0651%",Oil Equipment and Services,LU,"2.422.822,98 €",160.505
+NIBE B,Nibe Industrier AB Class B,"0,065%",Building: Climate Control,SE,"2.421.183,29 €",517.868
+,Air Liquide SA,"0,0639%",Specialty Chemicals,FR,"2.378.101,88 €",13.178
+G1A,GEA Group AG,"0,0627%",Machinery: Industrial,DE,"2.334.544,08 €",60.986
+PZU,Powszechny Zaklad Ubezpieczen SA,"0,0627%",Full Line Insurance,PL,"2.333.805,10 €",199.494
+CON,Continental AG,"0,0625%",Auto Parts,DE,"2.326.966,88 €",37.387
+TEL,Telenor ASA,"0,0625%",Telecommunications Services,NO,"2.326.263,77 €",216.671
+DCC,DCC plc,"0,0623%",Industrial Suppliers,IE,"2.319.964,17 €",34.765
+OMV,OMV AG,"0,0621%",Integrated Oil and Gas,AT,"2.312.092,48 €",50.002
+EN,Bouygues SA,"0,0619%",Construction,FR,"2.304.144,00 €",64.004
+SYENS,Syensqo SA,"0,0616%",Diversified Materials,BE,"2.292.173,66 €",25.073
+RXL,Rexel SA,"0,0613%",Electrical Components,FR,"2.282.867,28 €",82.088
+TRYG,Tryg A/S,"0,061%",Full Line Insurance,DK,"2.271.934,37 €",120.014
+SPSN,Swiss Prime Site AG,"0,0609%",Real Estate Holding and Development,CH,"2.267.038,00 €",26.654
+INDT,Indutrade AB,"0,0606%",Diversified Industrials,SE,"2.257.321,43 €",95.314
+BKG,Berkeley Group Holdings plc,"0,0606%",Home Construction,GB,"2.256.939,25 €",36.725
+EPI B,Epiroc AB Class B,"0,0604%",Machinery: Construction and Handling,SE,"2.248.796,15 €",130.731
+ASRNL,ASR Nederland NV,"0,0599%",Full Line Insurance,NL,"2.231.366,40 €",50.256
+WEIR,Weir Group plc,"0,0596%",Machinery: Construction and Handling,GB,"2.218.124,67 €",89.044
+SIGN,SIG Group AG,"0,0591%",Containers and Packaging,CH,"2.199.274,66 €",114.998
+BME,B&M European Value Retail SA,"0,059%",Diversified Retailers,LU,"2.196.821,04 €",343.946
+VIV,Vivendi SE,"0,0584%",Radio and TV Broadcasters,FR,"2.175.560,20 €",215.402
+TEP,Teleperformance SE,"0,0582%",Professional Business Support Services,FR,"2.166.822,00 €",20.755
+ELISA,Elisa Oyj,"0,0578%",Telecommunications Services,FI,"2.150.713,60 €",50.368
+INDU C,Industrivarden AB Class C,"0,0575%",Asset Managers and Custodians,SE,"2.139.579,33 €",66.364
+MAERSK B,AP Moller - Maersk A/S Class B,"0,0574%",Marine Transportation,DK,"2.137.430,50 €",1.279
+SRT3,Sartorius AG Preference Shares,"0,0574%",Medical Equipment,DE,"2.135.343,00 €",8.842
+FORTUM,Fortum Oyj,"0,0568%",Conventional Electricity,FI,"2.112.761,25 €",150.750
+CCH,Coca-Cola HBC AG,"0,0567%",Soft Drinks,CH,"2.112.332,26 €",68.017
+TW.,Taylor Wimpey plc,"0,0567%",Home Construction,GB,"2.109.049,06 €",1.222.080
+LEG,LEG Immobilien SE,"0,0564%",Real Estate Holding and Development,DE,"2.100.785,16 €",25.859
+GBLB,Groupe Bruxelles Lambert NV,"0,0564%",Diversified Financial Services,BE,"2.100.524,40 €",29.922
+KOG,Kongsberg Gruppen ASA,"0,0564%",Diversified Industrials,NO,"2.097.638,38 €",26.527
+UHR,Swatch Group AG (Bearer),"0,055%",Luxury Items,CH,"2.048.304,11 €",10.386
+PEO,Bank Polska Kasa Opieki SA,"0,0549%",Banks,PL,"2.042.149,07 €",54.551
+TELIA,Telia Co. AB,"0,0547%",Telecommunications Services,SE,"2.035.276,18 €",852.760
+KGF,Kingfisher plc,"0,0545%",Home Improvement Retailers,GB,"2.029.013,23 €",655.073
+GET,Getlink SE,"0,0541%",Railroads,FR,"2.014.207,07 €",124.449
+VOLV A,Volvo AB Class A,"0,0538%",Commercial Vehicles and Parts,SE,"2.001.524,58 €",80.240
+SKA B,Skanska AB Class B,"0,0537%",Construction,SE,"1.999.942,22 €",123.262
+ELE,Endesa SA,"0,0536%",Conventional Electricity,ES,"1.994.059,50 €",108.965
+SMDS,DS Smith plc,"0,0535%",Containers and Packaging,GB,"1.991.421,57 €",445.668
+ORK,Orkla ASA,"0,0533%",Food Products,NO,"1.984.587,55 €",270.799
+BEIJ B,Beijer Ref AB Class B,"0,0533%",Machinery: Specialty,SE,"1.983.744,38 €",133.114
+BDEV,Barratt Developments plc,"0,0532%",Home Construction,GB,"1.978.825,24 €",335.305
+PST,Poste Italiane SPA,"0,0531%",Life Insurance,IT,"1.974.798,00 €",156.730
+BARN,Barry Callebaut AG,"0,0528%",Food Products,CH,"1.963.548,03 €",1.228
+LAND,Land Securities Group plc,"0,0527%",Diversified REITs,GB,"1.961.820,43 €",256.361
+SBRY,J Sainsbury plc,"0,0526%",Food Retailers and Wholesalers,GB,"1.958.477,86 €",602.419
+HWDN,Howden Joinery Group plc,"0,0525%",Home Improvement Retailers,GB,"1.954.841,90 €",183.670
+IMI,IMI plc,"0,0524%",Electronic Equipment: Control and Filter,GB,"1.952.280,60 €",89.737
+JMT,Jeronimo Martins SGPS SA,"0,0523%",Food Retailers and Wholesalers,PT,"1.946.600,46 €",94.587
+PSN,Persimmon plc,"0,0519%",Home Construction,GB,"1.932.745,55 €",114.046
+LI,Klepierre SA,"0,0519%",Retail REITs,FR,"1.931.798,40 €",72.624
+ADEN,Adecco Group AG,"0,0516%",Business Training and Employment Agencie,CH,"1.920.835,47 €",55.103
+AKE,Arkema SA,"0,0515%",Chemicals: Diversified,FR,"1.915.406,25 €",20.431
+GF,Georg Fischer AG,"0,0512%",Machinery: Industrial,CH,"1.907.120,56 €",28.647
+BEZ,Beazley plc,"0,0512%",Property and Casualty Insurance,GB,"1.906.830,02 €",235.633
+DHER,Delivery Hero SE Class A,"0,0509%",Consumer Services: Misc.,DE,"1.896.121,67 €",67.937
+LIFCO B,Lifco AB Class B,"0,0509%",Diversified Industrials,SE,"1.893.399,81 €",77.818
+SOBI,Swedish Orphan Biovitrum AB,"0,05%",Pharmaceuticals,SE,"1.862.372,80 €",75.296
+EMSN,EMS-Chemie Holding AG,"0,0499%",Specialty Chemicals,CH,"1.858.909,77 €",2.447
+BOL,Bollore SE,"0,0496%",Transportation Services,FR,"1.847.649,69 €",299.457
+BKT,Bankinter SA,"0,0496%",Banks,ES,"1.845.310,60 €",227.255
+ZAL,Zalando SE,"0,0494%",Apparel Retailers,DE,"1.838.926,00 €",75.832
+ALO,Alstom SA,"0,0492%",Electrical Components,FR,"1.832.677,28 €",101.872
+G24,Scout24 SE,"0,049%",Consumer Digital Services,DE,"1.823.281,60 €",26.348
+PSPN,PSP Swiss Property AG,"0,0486%",Real Estate Holding and Development,CH,"1.809.099,79 €",15.638
+RAND,Randstad NV,"0,0485%",Business Training and Employment Agencie,NL,"1.805.900,80 €",37.312
+GFC,Gecina SA,"0,0477%",Office REITs,FR,"1.776.060,00 €",17.940
+SAGA B,Sagax AB Class B,"0,0477%",Real Estate Holding and Development,SE,"1.774.726,06 €",73.257
+RMV,Rightmove plc,"0,0475%",Real Estate Services,GB,"1.768.564,46 €",282.816
+MNG,M&G plc,"0,0474%",Asset Managers and Custodians,GB,"1.764.322,28 €",755.579
+BMW3,Bayerische Motoren Werke AG Preference Shares,"0,0473%",Automobiles,DE,"1.762.519,20 €",19.938
+CAST,Castellum AB,"0,0469%",Real Estate Holding and Development,SE,"1.745.720,96 €",152.675
+VER,Verbund AG,"0,0468%",Alternative Electricity,AT,"1.742.338,80 €",22.986
+ENT,Entain plc,"0,0468%",Casinos and Gambling,IM,"1.740.242,75 €",219.761
+NEXI,Nexi SPA,"0,0463%",Transaction Processing Services,IT,"1.722.160,65 €",282.785
+TEL2 B,Tele2 AB,"0,046%",Telecommunications Services,SE,"1.713.574,63 €",190.689
+ALE,Allegro.eu SA,"0,0459%",Consumer Services: Misc.,LU,"1.708.949,05 €",193.357
+,L'Oreal SA,"0,0453%",Cosmetics,FR,"1.685.428,80 €",3.728
+MAERSK A,AP Moller - Maersk A/S Class A,"0,0453%",Marine Transportation,DK,"1.685.218,28 €",1.044
+KGH,KGHM Polska Miedz SA,"0,0448%",Copper,PL,"1.667.561,36 €",46.982
+YAR,Yara International ASA,"0,0448%",Fertilizers,NO,"1.667.008,38 €",58.494
+CTEC,ConvaTec Group plc,"0,0448%",Medical Supplies,GB,"1.666.239,01 €",571.491
+EVD,CTS Eventim AG & Co. KGaA,"0,0446%",Entertainment,DE,"1.661.762,60 €",20.929
+PUM,Puma SE,"0,0443%",Footwear,DE,"1.650.460,50 €",34.710
+REC,Recordati Industria Chimica e Farmaceutica SPA,"0,0437%",Pharmaceuticals,IT,"1.628.369,60 €",33.644
+EVK,Evonik Industries AG,"0,0436%",Specialty Chemicals,DE,"1.623.886,70 €",80.510
+BLND,British Land Co. plc,"0,0436%",Diversified REITs,GB,"1.621.984,36 €",315.896
+KESKOB,Kesko Oyj Class B,"0,0435%",Food Retailers and Wholesalers,FI,"1.619.214,96 €",96.843
+WDP,Warehouses De Pauw CVA,"0,0434%",Industrial REITs,BE,"1.616.116,68 €",60.393
+LPP,Lpp SA,"0,0434%",Clothing and Accessories,PL,"1.614.718,82 €",398
+KBX,Knorr-Bremse AG,"0,0431%",Railroad Equipment,DE,"1.602.831,80 €",22.703
+HL.,Hargreaves Lansdown plc,"0,0429%",Asset Managers and Custodians,GB,"1.596.752,83 €",128.989
+HSX,Hiscox Ltd.,"0,0428%",Full Line Insurance,BM,"1.594.411,41 €",119.044
+EDPR,EDP Renovaveis SA,"0,0428%",Alternative Electricity,ES,"1.592.704,00 €",108.200
+CPR,Davide Campari-Milano NV,"0,0427%",Distillers and Vintners,NL,"1.587.900,14 €",173.087
+DIM,Sartorius Stedim Biotech,"0,0426%",Medical Supplies,FR,"1.586.132,60 €",8.684
+NEM,Nemetschek SE,"0,0426%",Software,DE,"1.583.940,90 €",18.958
+SECU B,Securitas AB Class B,"0,042%",Security Services,SE,"1.563.634,85 €",165.610
+DIE,D'ieteren Group,"0,0418%",Auto Services,BE,"1.554.484,80 €",7.788
+AM,Dassault Aviation SA,"0,0414%",Aerospace,FR,"1.541.653,00 €",7.747
+PHNX,Phoenix Group Holdings plc,"0,0413%",Life Insurance,GB,"1.538.534,39 €",264.377
+SCHN,Schindler Holding AG (Registered),"0,0411%",Machinery: Industrial,CH,"1.531.602,75 €",6.579
+DNP,Dino Polska SA,"0,0411%",Food Retailers and Wholesalers,PL,"1.528.398,42 €",16.660
+AMP,Amplifon SPA,"0,0408%",Medical Supplies,IT,"1.520.000,40 €",44.904
+HELN,Helvetia Holding AG,"0,0402%",Full Line Insurance,CH,"1.495.675,32 €",12.096
+BRBY,Burberry Group plc,"0,0397%",Clothing and Accessories,GB,"1.478.209,42 €",121.778
+IPN,Ipsen SA,"0,0397%",Pharmaceuticals,FR,"1.477.711,80 €",12.253
+ADP,Aeroports de Paris SA,"0,0395%",Transportation Services,FR,"1.468.582,20 €",11.202
+VALMT,Valmet Oyj,"0,0394%",Machinery: Industrial,FI,"1.465.987,68 €",59.448
+AALB,Aalberts NV,"0,0392%",Electronic Equipment: Control and Filter,NL,"1.460.615,70 €",33.485
+BIM,BioMerieux,"0,0389%",Medical Equipment,FR,"1.448.020,75 €",14.905
+AMUN,Amundi SA,"0,0389%",Asset Managers and Custodians,FR,"1.447.901,10 €",20.494
+DEMANT,Demant A/S,"0,0386%",Medical Equipment,DK,"1.437.858,10 €",32.598
+BEAN,Belimo Holding AG,"0,0384%",Building: Climate Control,CH,"1.428.156,07 €",3.335
+TECN,Tecan Group AG,"0,0378%",Medical Equipment,CH,"1.406.910,46 €",4.314
+SCR,Scor Se,"0,0374%",Reinsurance,FR,"1.393.933,68 €",52.641
+SW,Sodexo SA,"0,0374%",Restaurants and Bars,FR,"1.391.510,90 €",16.237
+SOF,Sofina SA,"0,0371%",Asset Managers and Custodians,BE,"1.382.084,00 €",6.220
+AVOL,Avolta AG,"0,0367%",Specialty Retailers,CH,"1.366.127,43 €",36.596
+TLX,Talanx AG,"0,0367%",Reinsurance,DE,"1.365.271,60 €",18.664
+LOTB,Lotus Bakeries NV,"0,0365%",Food Products,BE,"1.359.420,00 €",139
+RS1,RS GROUP plc,"0,0364%",Industrial Suppliers,GB,"1.354.146,40 €",164.125
+BALD B,Fastighets AB Balder Class B,"0,0361%",Real Estate Holding and Development,SE,"1.345.349,83 €",217.386
+LHA,Deutsche Lufthansa AG,"0,036%",Airlines,DE,"1.338.775,07 €",208.467
+JD.,JD Sports Fashion plc,"0,0359%",Apparel Retailers,GB,"1.334.717,85 €",892.591
+ORNBV,Orion Oyj Class B,"0,0358%",Pharmaceuticals,FI,"1.334.437,92 €",35.604
+SPL,Santander Bank Polska SA,"0,0358%",Banks,PL,"1.333.931,56 €",11.303
+LATO B,Investment AB Latour Class B,"0,0355%",Diversified Industrials,SE,"1.323.146,82 €",51.754
+VOW,Volkswagen AG,"0,0355%",Automobiles,DE,"1.320.832,50 €",10.075
+EDV,Endeavour Mining plc,"0,0354%",Gold Mining,GB,"1.316.926,51 €",65.398
+SDR,Schroders plc,"0,0354%",Asset Managers and Custodians,GB,"1.316.080,40 €",286.412
+RAA,Rational AG,"0,0352%",Electronic Equipment: Other,DE,"1.308.720,00 €",1.680
+HIK,Hikma Pharmaceuticals plc,"0,0351%",Pharmaceuticals,GB,"1.307.340,50 €",57.757
+ANDR,Andritz AG,"0,035%",Machinery: Industrial,AT,"1.302.205,10 €",23.698
+JMAT,Johnson Matthey plc,"0,0348%",Chemicals: Diversified,GB,"1.295.034,56 €",62.811
+UTG,UNITE Group plc,"0,0348%",Residential REITs,GB,"1.294.686,55 €",118.510
+UMI,Umicore SA,"0,0347%",Specialty Chemicals,BE,"1.292.106,97 €",71.269
+BC8,Bechtle AG,"0,0345%",Computer Services,DE,"1.284.158,88 €",28.767
+FHZN,Flughafen Zurich AG,"0,034%",Transportation Services,CH,"1.264.998,18 €",6.456
+GETI B,Getinge AB,"0,0339%",Medical Equipment,SE,"1.263.397,47 €",77.138
+MRL,Merlin Properties Socimi SA,"0,0338%",Diversified REITs,ES,"1.259.222,34 €",114.267
+TEMN,Temenos AG,"0,0336%",Software,CH,"1.252.060,94 €",21.142
+SALM,Salmar ASA,"0,0335%","Farming, Fishing, Ranching and Plantatio",NO,"1.248.158,62 €",22.286
+INW,Infrastrutture Wireless Italiane SPA,"0,0334%",Telecommunications Services,IT,"1.245.114,60 €",123.892
+LUND B,L E Lundbergforetagen AB Class B,"0,0332%",Diversified Financial Services,SE,"1.234.807,69 €",26.451
+ROCK B,ROCKWOOL A/S Class B,"0,0329%",Building Materials: Other,DK,"1.225.156,97 €",3.173
+ENG,Enagas SA,"0,0329%",Pipelines,ES,"1.224.703,62 €",86.674
+INPST,InPost SA,"0,0328%",Delivery Services,LU,"1.221.162,15 €",73.965
+ACKB,Ackermans & van Haaren NV,"0,0327%",Engineering and Contracting Services,BE,"1.215.885,60 €",7.464
+GL9,Glanbia plc,"0,0324%",Food Products,IE,"1.207.620,81 €",64.201
+ELI,Elia Group SA/NV,"0,0322%",Conventional Electricity,BE,"1.197.388,00 €",12.820
+ABDN,abrdn plc,"0,032%",Asset Managers and Custodians,GB,"1.191.718,94 €",655.353
+FDJ,La Francaise des Jeux SAEM,"0,0319%",Casinos and Gambling,FR,"1.187.515,84 €",36.029
+IP,Interpump Group SPA,"0,0313%",Machinery: Industrial,IT,"1.166.323,16 €",27.086
+NTGY,Naturgy Energy Group SA,"0,0308%",Gas Distribution,ES,"1.148.113,60 €",46.520
+BZU,Buzzi SPA,"0,0305%",Cement,IT,"1.134.508,90 €",29.255
+CLN,Clariant AG,"0,0303%",Chemicals: Diversified,CH,"1.128.902,28 €",76.779
+INDU A,Industrivarden AB Class A,"0,0301%",Asset Managers and Custodians,SE,"1.119.639,74 €",34.272
+STJ,St. James's Place plc,"0,0297%",Asset Managers and Custodians,GB,"1.106.145,08 €",188.783
+IAG,International Consolidated Airlines Group SA (London Shares),"0,0296%",Airlines,ES,"1.102.831,68 €",548.620
+AFX,Carl Zeiss Meditec AG,"0,0291%",Medical Equipment,DE,"1.083.604,65 €",12.801
+LIGHT,Signify NV,"0,0291%",Building Materials: Other,NL,"1.083.347,16 €",43.473
+,Sodexo SA,"0,0291%",Restaurants and Bars,FR,"1.081.876,80 €",12.624
+A2A,A2A Spa,"0,029%",Conventional Electricity,IT,"1.081.046,32 €",560.418
+BC,Brunello Cucinelli SPA,"0,029%",Clothing and Accessories,IT,"1.078.059,45 €",11.661
+FPE3,FUCHS PETROLUB SE Preference Shares,"0,0288%",Specialty Chemicals,DE,"1.072.692,72 €",24.138
+KGX,KION Group AG,"0,0287%",Machinery: Construction and Handling,DE,"1.069.782,64 €",24.844
+WLN,Worldline SA/France,"0,0281%",Transaction Processing Services,FR,"1.044.986,25 €",85.305
+VOE,voestalpine AG,"0,0279%",Iron and Steel,AT,"1.040.234,08 €",38.728
+GRF,Grifols SA,"0,0279%",Biotechnology,ES,"1.038.980,62 €",111.383
+HOLM B,Holmen AB,"0,0276%",Paper,SE,"1.027.546,15 €",26.700
+REY,Reply SPA,"0,0271%",Consumer Digital Services,IT,"1.010.315,20 €",7.993
+PIRC,Pirelli & C SPA,"0,0269%",Tires,IT,"999.702,51 €",164.533
+GJF,Gjensidige Forsikring ASA,"0,0267%",Full Line Insurance,NO,"993.146,48 €",61.635
+ANA,Acciona SA,"0,0264%",Construction,ES,"984.229,20 €",8.348
+BCVN,Banque Cantonale Vaudoise,"0,0256%",Banks,CH,"953.436,73 €",9.824
+TOM,TOMRA Systems ASA,"0,0254%",Machinery: Industrial,NO,"946.005,28 €",78.265
+SOI,Soitec,"0,0249%",Semiconductors,FR,"928.515,00 €",8.365
+HER,Hera SPA,"0,0246%",Multi-Utilities,IT,"914.835,57 €",269.863
+BKW,Bkw AG,"0,0245%",Conventional Electricity,CH,"911.265,72 €",6.285
+AXFO,Axfood AB,"0,0245%",Food Retailers and Wholesalers,SE,"910.979,55 €",37.320
+HUSQ B,Husqvarna AB,"0,0244%",Household Equipment and Products,SE,"907.278,67 €",119.479
+SWEC B,Sweco AB Class B,"0,0244%",Engineering and Contracting Services,SE,"906.812,25 €",70.432
+COV,Covivio SA/France,"0,0243%",Office REITs,FR,"905.714,40 €",18.948
+OCDO,Ocado Group plc,"0,0241%",Food Retailers and Wholesalers,GB,"898.006,43 €",204.949
+JDEP,JDE Peet's NV,"0,024%",Soft Drinks,NL,"891.823,32 €",44.106
+BMED,Banca Mediolanum SPA,"0,0238%",Diversified Financial Services,IT,"886.052,30 €",83.986
+BANB,Bachem Holding AG,"0,0236%",Biotechnology,CH,"879.681,87 €",10.656
+VAR,Var Energi ASA,"0,0236%",Offshore Drilling and Other Services,NO,"877.022,21 €",269.138
+TIT,Telecom Italia SPA (Registered),"0,0235%",Telecommunications Services,IT,"873.786,98 €",3.610.690
+NEOEN,Neoen SA,"0,0233%",Alternative Electricity,FR,"866.880,42 €",22.897
+FR,Valeo SE,"0,0232%",Auto Parts,FR,"862.025,37 €",76.353
+PLX,Pluxee NV,"0,0231%",Transaction Processing Services,NL,"858.561,25 €",29.863
+IG,Italgas SPA,"0,0229%",Gas Distribution,IT,"853.938,01 €",173.989
+SSAB B,SSAB AB Class B,"0,0227%",Iron and Steel,SE,"844.502,98 €",158.587
+OCI,Oci Nv,"0,0225%",Fertilizers,NL,"836.728,34 €",33.389
+VPK,Koninklijke Vopak NV,"0,0224%",Transportation Services,NL,"835.186,20 €",22.130
+MF,Wendel SE,"0,0217%",Diversified Financial Services,FR,"809.399,25 €",8.919
+DKSH,DKSH Holding AG,"0,0212%",Professional Business Support Services,CH,"790.422,00 €",12.649
+SOLB,Solvay SA Class A,"0,0212%",Chemicals: Diversified,BE,"788.219,94 €",23.438
+SCHB,Schibsted ASA Class B,"0,0211%",Consumer Digital Services,NO,"784.668,06 €",31.543
+SSAB A,SSAB AB Class A,"0,0206%",Iron and Steel,SE,"765.200,45 €",143.130
+TKA,thyssenkrupp AG,"0,0203%",Diversified Industrials,DE,"754.298,63 €",166.659
+MAP,Mapfre SA,"0,0195%",Full Line Insurance,ES,"726.208,21 €",328.601
+RBI,Raiffeisen Bank International AG,"0,0195%",Banks,AT,"724.108,32 €",42.796
+SCHA,Schibsted ASA Class A,"0,0191%",Consumer Digital Services,NO,"712.823,14 €",26.732
+HOT,Hochtief AG,"0,0191%",Construction,DE,"712.611,90 €",7.119
+DIA,DiaSorin SPA,"0,0191%",Medical Equipment,IT,"710.191,32 €",7.178
+UHRN,Swatch Group AG (Registered),"0,0185%",Luxury Items,CH,"687.291,23 €",17.902
+RF,Eurazeo SE,"0,018%",Asset Managers and Custodians,FR,"670.221,00 €",8.676
+,Engie SA,"0,0178%",Multi-Utilities,FR,"661.635,65 €",42.590
+EMMN,Emmi AG,"0,0177%",Food Products,CH,"659.809,19 €",718
+VOLCAR B,Volvo Car AB Class B,"0,0177%",Automobiles,SE,"659.687,08 €",214.433
+ALLFG,Allfunds Group plc,"0,0176%",Financial Data Providers,GB,"654.961,39 €",119.737
+RCO,Remy Cointreau SA,"0,0174%",Distillers and Vintners,FR,"646.978,50 €",7.567
+FRA,Fraport AG Frankfurt Airport Services Worldwide,"0,017%",Transportation Services,DE,"631.890,00 €",11.900
+DWS,DWS Group GmbH & Co. KGaA,"0,0167%",Asset Managers and Custodians,DE,"620.958,96 €",14.556
+CTPNV,CTP NV,"0,0164%",Real Estate Holding and Development,NL,"611.924,14 €",37.267
+8TRA,Traton SE,"0,0155%",Commercial Vehicles and Parts,DE,"578.692,50 €",17.670
+GRF.P,Grifols SA Preference Shares,"0,0151%",Biotechnology,ES,"563.732,72 €",85.156
+AAF,Airtel Africa plc,"0,0148%",Telecommunications Services,GB,"552.423,44 €",386.404
+TITR,Telecom Italia SPA (Bearer),"0,0148%",Telecommunications Services,IT,"552.032,36 €",2.092.617
+DEC,JCDecaux SE,"0,0148%",Media Agencies,FR,"551.300,20 €",25.289
+,EURAZEO PRIME DE FIDELITE COMMON STOCK,"0,0144%",Asset Managers and Custodians,FR,"536.964,75 €",6.951
+,SEB SA,"0,0135%",Household Equipment and Products,FR,"502.702,20 €",4.433
+WCH,Wacker Chemie AG,"0,0133%",Chemicals: Diversified,DE,"494.520,70 €",4.853
+AUTO,AutoStore Holdings Ltd.,"0,0129%",Machinery: Industrial,BM,"481.453,46 €",370.865
+SK,SEB SA,"0,0127%",Household Equipment and Products,FR,"474.352,20 €",4.183
+HLUN B,H Lundbeck A/S,"0,0125%",Pharmaceuticals,DK,"464.654,17 €",91.833
+AYV,Ayvens SA,"0,0121%",Rental and Leasing Services: Consumer,FR,"451.188,40 €",65.723
+FRES,Fresnillo plc,"0,0118%",Gold Mining,GB,"440.749,65 €",60.663
+AKER,Aker ASA,"0,0115%",Diversified Financial Services,NO,"428.435,80 €",7.815
+ANE,Corp ACCIONA Energias Renovables SA,"0,0114%",Alternative Electricity,ES,"423.827,00 €",19.805
+RRTL,RTL Group SA,"0,0106%",Radio and TV Broadcasters,LU,"392.831,25 €",12.775
+FIE,Fielmann Group AG,"0,0102%",Specialty Retailers,DE,"380.042,30 €",8.657
+FPE,FUCHS SE,"0,0098%",Specialty Chemicals,DE,"364.122,45 €",10.539
+SIX2,Sixt SE,"0,0095%",Rental and Leasing Services: Consumer,DE,"354.757,00 €",4.705
+TKA,Telekom Austria AG Class A,"0,0093%",Telecommunications Services,AT,"345.019,07 €",39.703
+SIX3,Sixt SE Preference Shares,"0,0083%",Rental and Leasing Services: Consumer,DE,"308.098,00 €",5.222
+DWNI,Deutsche Wohnen SE,"0,0078%",Real Estate Holding and Development,DE,"289.353,50 €",16.165
+PCO,Pepco Group NV,"0,0073%",Diversified Retailers,NL,"271.573,07 €",47.746
+FCC,Fomento de Construcciones y Contratas SA,"0,0054%",Construction,ES,"199.593,52 €",13.324
+SHB B,Svenska Handelsbanken AB Class B,"0,0053%",Banks,SE,"195.769,69 €",18.427
+,SODEXO PRIME DE FIDELITE 2027 COMMON STOCK,"0,0048%",Restaurants and Bars,FR,"179.455,80 €",2.094
+SVITZR,Svitzer A/S,"0,0045%",Transportation Services,DK,"167.903,84 €",4.647
+SRT,Sartorius AG,"0,0036%",Medical Equipment,DE,"135.108,00 €",695
+SAGA D,Sagax AB,"0,0035%",Real Estate Holding and Development,SE,"128.873,21 €",46.198
+HLUN A,H Lundbeck A/S Class A,"0,0033%",Pharmaceuticals,DK,"123.924,48 €",27.469
+SCA A,Svenska Cellulosa AB SCA Class A,"0,0033%",Forestry,SE,"121.848,77 €",8.535
+SEB C,Skandinaviska Enskilda Banken AB Class C,"0,0028%",Banks,SE,"103.101,31 €",7.714
+,EURAZEO COMMON STOCK,"0,0025%",Asset Managers and Custodians,FR,"93.472,50 €",1.210
+EVR,Evraz plc,"0,00%",Iron and Steel,GB,"1,84 €",156.983
+NMC,NMC Health plc,"0,00%",Health Care Facilities,GB,"0,22 €",19.032

@@ -1,0 +1,503 @@
+Ticker,Nome delle partecipazioni,% del valore di mercato,Settore,Regione,Valore di mercato,Azioni
+7203,Toyota Motor Corp.,"5,677%",Automobiles,JP,"185.105.990,77 USD",8.552.920
+8306,Mitsubishi UFJ Financial Group Inc.,"2,5788%",Banks,JP,"84.085.378,47 USD",7.969.600
+6758,Sony Group Corp.,"2,2242%",Consumer Electronics,JP,"72.522.835,60 USD",883.800
+8035,Tokyo Electron Ltd.,"2,0622%",Production Technology Equipment,JP,"67.240.739,44 USD",314.200
+6501,Hitachi Ltd.,"1,9996%",Diversified Industrials,JP,"65.198.491,84 USD",634.600
+6861,Keyence Corp.,"1,9149%",Electronic Equipment: Gauges and Meters,JP,"62.437.697,67 USD",138.800
+8316,Sumitomo Mitsui Financial Group Inc.,"1,8012%",Banks,JP,"58.729.841,87 USD",896.900
+8058,Mitsubishi Corp.,"1,7464%",Diversified Industrials,JP,"56.944.144,58 USD",2.709.200
+8031,Mitsui & Co. Ltd.,"1,6219%",Industrial Suppliers,JP,"52.883.127,05 USD",1.042.700
+6098,Recruit Holdings Co. Ltd.,"1,5834%",Business Training and Employment Agencie,JP,"51.627.582,02 USD",1.020.762
+4063,Shin-Etsu Chemical Co. Ltd.,"1,56%",Chemicals: Diversified,JP,"50.865.417,29 USD",1.365.200
+4568,Daiichi Sankyo Co. Ltd.,"1,465%",Pharmaceuticals,JP,"47.766.805,18 USD",1.345.700
+8766,Tokio Marine Holdings Inc.,"1,407%",Property and Casualty Insurance,JP,"45.875.905,06 USD",1.327.900
+8001,ITOCHU Corp.,"1,3718%",Diversified Industrials,JP,"44.730.191,86 USD",948.600
+7974,Nintendo Co. Ltd.,"1,2455%",Electronic Entertainment,JP,"40.612.364,38 USD",746.000
+9984,SoftBank Group Corp.,"1,2234%",Telecommunications Services,JP,"39.891.938,02 USD",693.300
+7267,Honda Motor Co. Ltd.,"1,1864%",Automobiles,JP,"38.684.538,87 USD",3.435.480
+8411,Mizuho Financial Group Inc.,"1,1393%",Banks,JP,"37.149.418,18 USD",1.816.380
+9433,KDDI Corp.,"0,9369%",Telecommunications Services,JP,"30.549.017,15 USD",1.106.900
+7741,Hoya Corp.,"0,9095%",Medical Supplies,JP,"29.655.222,88 USD",244.500
+4502,Takeda Pharmaceutical Co. Ltd.,"0,8875%",Pharmaceuticals,JP,"28.937.084,22 USD",1.089.700
+9983,Fast Retailing Co. Ltd.,"0,8687%",Apparel Retailers,JP,"28.325.731,01 USD",110.700
+6367,Daikin Industries Ltd.,"0,8526%",Building: Climate Control,JP,"27.800.617,26 USD",190.400
+6503,Mitsubishi Electric Corp.,"0,7414%",Diversified Industrials,JP,"24.175.557,61 USD",1.391.600
+2914,Japan Tobacco Inc.,"0,737%",Tobacco,JP,"24.029.949,41 USD",848.200
+6902,Denso Corp.,"0,7292%",Auto Parts,JP,"23.775.241,60 USD",1.469.194
+9434,SoftBank Corp.,"0,725%",Telecommunications Services,JP,"23.639.098,29 USD",1.968.088
+6146,Disco Corp.,"0,7056%",Production Technology Equipment,JP,"23.008.126,25 USD",58.800
+6981,Murata Manufacturing Co. Ltd.,"0,6972%",Electronic Components,JP,"22.733.419,60 USD",1.204.262
+8002,Marubeni Corp.,"0,6968%",Industrial Suppliers,JP,"22.720.468,36 USD",1.166.800
+4661,Oriental Land Co. Ltd./Japan,"0,661%",Recreational Services,JP,"21.551.840,66 USD",772.000
+3382,Seven & i Holdings Co. Ltd.,"0,6541%",Food Retailers and Wholesalers,JP,"21.327.263,36 USD",1.652.600
+6723,Renesas Electronics Corp.,"0,6262%",Semiconductors,JP,"20.417.330,19 USD",1.092.807
+8053,Sumitomo Corp.,"0,6248%",Industrial Suppliers,JP,"20.373.187,18 USD",784.500
+6273,SMC Corp.,"0,6137%",Machinery: Industrial,JP,"20.010.302,59 USD",39.900
+8725,MS&AD Insurance Group Holdings Inc.,"0,6125%",Property and Casualty Insurance,JP,"19.972.666,01 USD",956.600
+9432,Nippon Telegraph & Telephone Corp.,"0,6048%",Telecommunications Services,JP,"19.719.705,94 USD",20.083.300
+7751,Canon Inc.,"0,5988%",Electronic Office Equipment,JP,"19.523.675,59 USD",674.000
+6301,Komatsu Ltd.,"0,588%",Machinery: Construction and Handling,JP,"19.172.571,83 USD",655.400
+6954,FANUC Corp.,"0,5862%",Machinery: Industrial,JP,"19.113.794,27 USD",682.800
+6594,NIDEC Corp.,"0,567%",Electrical Components,JP,"18.486.411,91 USD",370.400
+6702,Fujitsu Ltd.,"0,5629%",Computer Services,JP,"18.353.564,54 USD",1.271.400
+8591,ORIX Corp.,"0,5548%",Diversified Financial Services,JP,"18.090.925,58 USD",831.500
+6857,Advantest Corp.,"0,5474%",Production Technology Equipment,JP,"17.847.142,76 USD",527.873
+7011,Mitsubishi Heavy Industries Ltd.,"0,5464%",Machinery: Industrial,JP,"17.814.599,26 USD",2.046.400
+8750,Dai-ichi Life Holdings Inc.,"0,5426%",Life Insurance,JP,"17.693.253,36 USD",660.900
+8801,Mitsui Fudosan Co. Ltd.,"0,5395%",Real Estate Holding and Development,JP,"17.589.967,55 USD",1.918.900
+5108,Bridgestone Corp.,"0,5357%",Tires,JP,"17.467.256,36 USD",401.300
+4543,Terumo Corp.,"0,5349%",Medical Equipment,JP,"17.442.629,42 USD",1.026.600
+4901,FUJIFILM Holdings Corp.,"0,5318%",Electronic Office Equipment,JP,"17.338.717,11 USD",761.300
+6920,Lasertec Corp.,"0,486%",Production Technology Equipment,JP,"15.846.097,55 USD",61.500
+7269,Suzuki Motor Corp.,"0,4708%",Automobiles,JP,"15.349.609,60 USD",1.294.400
+9022,Central Japan Railway Co.,"0,4444%",Railroads,JP,"14.488.748,26 USD",648.486
+4452,Kao Corp.,"0,437%",Personal Products,JP,"14.249.825,32 USD",325.100
+4519,Chugai Pharmaceutical Co. Ltd.,"0,4342%",Pharmaceuticals,JP,"14.156.347,96 USD",465.300
+4578,Otsuka Holdings Co. Ltd.,"0,433%",Pharmaceuticals,JP,"14.118.424,39 USD",342.700
+8630,Sompo Holdings Inc.,"0,4247%",Property and Casualty Insurance,JP,"13.846.320,28 USD",654.400
+6701,NEC Corp.,"0,4177%",Computer Hardware,JP,"13.619.030,20 USD",184.100
+6752,Panasonic Holdings Corp.,"0,4122%",Consumer Electronics,JP,"13.441.902,70 USD",1.526.800
+9020,East Japan Railway Co.,"0,4113%",Railroads,JP,"13.412.580,10 USD",772.200
+8802,Mitsubishi Estate Co. Ltd.,"0,3997%",Real Estate Holding and Development,JP,"13.032.473,51 USD",775.900
+8604,Nomura Holdings Inc.,"0,3978%",Investment Services,JP,"12.972.333,51 USD",2.144.700
+6762,TDK Corp.,"0,3939%",Electronic Components,JP,"12.844.774,57 USD",257.100
+5401,Nippon Steel Corp.,"0,3906%",Iron and Steel,JP,"12.734.686,67 USD",583.098
+7733,Olympus Corp.,"0,39%",Medical Equipment,JP,"12.715.343,56 USD",807.824
+4503,Astellas Pharma Inc.,"0,3895%",Pharmaceuticals,JP,"12.699.779,18 USD",1.288.800
+6178,Japan Post Holdings Co. Ltd.,"0,3743%",Life Insurance,JP,"12.204.202,55 USD",1.265.894
+2502,Asahi Group Holdings Ltd.,"0,3639%",Brewers,JP,"11.866.620,88 USD",324.818
+8309,Sumitomo Mitsui Trust Holdings Inc.,"0,3599%",Banks,JP,"11.734.936,52 USD",506.200
+2802,Ajinomoto Co. Inc.,"0,3579%",Food Products,JP,"11.670.469,95 USD",327.200
+1925,Daiwa House Industry Co. Ltd.,"0,3518%",Home Construction,JP,"11.469.327,69 USD",431.700
+8267,Aeon Co. Ltd.,"0,3364%",Food Retailers and Wholesalers,JP,"10.968.495,98 USD",508.900
+8308,Resona Holdings Inc.,"0,3333%",Banks,JP,"10.868.930,58 USD",1.575.644
+6201,Toyota Industries Corp.,"0,3316%",Auto Parts,JP,"10.811.925,29 USD",114.800
+5020,ENEOS Holdings Inc.,"0,3179%",Oil Refining and Marketing,JP,"10.364.837,82 USD",2.009.850
+7182,Japan Post Bank Co. Ltd.,"0,3138%",Banks,JP,"10.231.289,90 USD",1.035.284
+9101,Nippon Yusen KK,"0,3115%",Marine Transportation,JP,"10.157.478,76 USD",320.200
+6326,Kubota Corp.,"0,3039%",Machinery: Agricultural,JP,"9.907.543,99 USD",701.000
+6971,Kyocera Corp.,"0,299%",Electronic Components,JP,"9.748.017,44 USD",857.700
+8015,Toyota Tsusho Corp.,"0,2977%",Diversified Industrials,JP,"9.706.233,73 USD",159.900
+7270,Subaru Corp.,"0,2945%",Automobiles,JP,"9.603.869,04 USD",431.200
+1605,Inpex Corp.,"0,289%",Oil: Crude Producers,JP,"9.424.422,35 USD",611.100
+9503,Kansai Electric Power Co. Inc.,"0,2879%",Conventional Electricity,JP,"9.385.957,56 USD",519.900
+9735,Secom Co. Ltd.,"0,2811%",Security Services,JP,"9.166.011,01 USD",147.400
+8113,Unicharm Corp.,"0,2721%",Personal Products,JP,"8.871.271,76 USD",276.000
+1928,Sekisui House Ltd.,"0,2701%",Home Construction,JP,"8.808.366,79 USD",391.900
+8830,Sumitomo Realty & Development Co. Ltd.,"0,2701%",Real Estate Holding and Development,JP,"8.807.896,53 USD",282.300
+4911,Shiseido Co. Ltd.,"0,2694%",Cosmetics,JP,"8.784.541,03 USD",277.700
+8697,Japan Exchange Group Inc.,"0,2692%",Investment Services,JP,"8.777.251,58 USD",374.200
+7309,Shimano Inc.,"0,2687%",Recreational Products,JP,"8.762.505,97 USD",53.600
+5802,Sumitomo Electric Industries Ltd.,"0,267%",Auto Parts,JP,"8.706.466,32 USD",537.700
+4523,Eisai Co. Ltd.,"0,2504%",Pharmaceuticals,JP,"8.164.879,57 USD",190.000
+4307,Nomura Research Institute Ltd.,"0,2445%",Computer Services,JP,"7.972.284,27 USD",298.003
+8601,Daiwa Securities Group Inc.,"0,2418%",Investment Services,JP,"7.884.815,93 USD",1.004.100
+4507,Shionogi & Co. Ltd.,"0,2418%",Pharmaceuticals,JP,"7.884.692,48 USD",176.000
+9104,Mitsui OSK Lines Ltd.,"0,241%",Marine Transportation,JP,"7.857.894,30 USD",238.200
+6988,Nitto Denko Corp.,"0,2371%",Specialty Chemicals,JP,"7.732.307,74 USD",101.300
+7832,Bandai Namco Holdings Inc.,"0,2336%",Toys,JP,"7.618.279,93 USD",418.300
+2801,Kikkoman Corp.,"0,2308%",Food Products,JP,"7.525.100,38 USD",650.100
+7532,Pan Pacific International Holdings Corp.,"0,2254%",Diversified Retailers,JP,"7.349.808,78 USD",286.100
+2503,Kirin Holdings Co. Ltd.,"0,2253%",Brewers,JP,"7.346.654,36 USD",530.800
+6506,Yaskawa Electric Corp.,"0,2162%",Machinery: Industrial,JP,"7.048.235,71 USD",185.000
+6869,Sysmex Corp.,"0,2126%",Medical Equipment,JP,"6.932.989,91 USD",406.600
+9613,NTT Data Group Corp.,"0,2115%",Computer Services,JP,"6.895.441,47 USD",449.900
+9502,Chubu Electric Power Co. Inc.,"0,2109%",Conventional Electricity,JP,"6.876.771,13 USD",498.800
+7936,Asics Corp.,"0,208%",Footwear,JP,"6.781.952,97 USD",122.500
+9501,Tokyo Electric Power Co. Holdings Inc.,"0,204%",Conventional Electricity,JP,"6.650.654,36 USD",1.112.300
+9021,West Japan Railway Co.,"0,2022%",Railroads,JP,"6.592.346,02 USD",330.132
+9532,Osaka Gas Co. Ltd.,"0,1964%",Gas Distribution,JP,"6.403.209,77 USD",281.700
+8795,T&D Holdings Inc.,"0,196%",Life Insurance,JP,"6.390.166,41 USD",355.400
+5411,JFE Holdings Inc.,"0,1953%",Iron and Steel,JP,"6.367.764,80 USD",420.800
+4684,Obic Co. Ltd.,"0,1908%",Computer Services,JP,"6.220.496,99 USD",48.000
+7272,Yamaha Motor Co. Ltd.,"0,1906%",Recreational Vehicles and Boats,JP,"6.216.013,87 USD",637.400
+6479,MINEBEA MITSUMI Inc.,"0,1878%",Electrical Components,JP,"6.122.172,52 USD",292.600
+9531,Tokyo Gas Co. Ltd.,"0,1799%",Gas Distribution,JP,"5.865.840,47 USD",261.500
+9843,Nitori Holdings Co. Ltd.,"0,1783%",Home Improvement Retailers,JP,"5.814.133,44 USD",52.600
+3407,Asahi Kasei Corp.,"0,177%",Chemicals: Diversified,JP,"5.771.882,66 USD",884.900
+1802,Obayashi Corp.,"0,1719%",Construction,JP,"5.604.513,67 USD",481.400
+5713,Sumitomo Metal Mining Co. Ltd.,"0,1682%",Nonferrous Metals,JP,"5.484.600,21 USD",168.500
+7202,Isuzu Motors Ltd.,"0,1682%",Commercial Vehicles and Parts,JP,"5.483.198,96 USD",410.900
+5019,Idemitsu Kosan Co. Ltd.,"0,1667%",Integrated Oil and Gas,JP,"5.434.544,08 USD",795.910
+7735,SCREEN Holdings Co. Ltd.,"0,1666%",Production Technology Equipment,JP,"5.431.190,30 USD",56.880
+3402,Toray Industries Inc.,"0,1663%",Chemicals and Synthetic Fibers,JP,"5.423.017,60 USD",1.084.500
+6504,Fuji Electric Co. Ltd.,"0,1641%",Electrical Components,JP,"5.351.743,99 USD",89.985
+7912,Dai Nippon Printing Co. Ltd.,"0,1626%",Forms and Bulk Printing Services,JP,"5.302.175,70 USD",170.600
+3099,Isetan Mitsukoshi Holdings Ltd.,"0,1589%",Diversified Retailers,JP,"5.181.658,34 USD",249.700
+4755,Rakuten Group Inc.,"0,1584%",Consumer Digital Services,JP,"5.163.577,59 USD",994.400
+1812,Kajima Corp.,"0,1578%",Construction,JP,"5.146.302,46 USD",304.200
+6586,Makita Corp.,"0,1572%",Machinery: Tools,JP,"5.126.976,36 USD",173.900
+7701,Shimadzu Corp.,"0,1531%",Electronic Equipment: Gauges and Meters,JP,"4.993.586,81 USD",192.900
+9005,Tokyu Corp.,"0,1519%",Diversified Retailers,JP,"4.952.263,83 USD",424.100
+7201,Nissan Motor Co. Ltd.,"0,1505%",Automobiles,JP,"4.908.675,17 USD",1.381.400
+7911,TOPPAN Holdings Inc.,"0,1501%",Forms and Bulk Printing Services,JP,"4.893.246,17 USD",188.931
+4612,Nippon Paint Holdings Co. Ltd.,"0,1497%",Paints and Coatings,JP,"4.880.098,61 USD",725.528
+4188,Mitsubishi Chemical Group Corp.,"0,1478%",Chemicals: Diversified,JP,"4.818.371,89 USD",911.500
+6361,Ebara Corp.,"0,146%",Machinery: Industrial,JP,"4.762.085,97 USD",65.300
+9766,Konami Group Corp.,"0,1459%",Electronic Entertainment,JP,"4.758.745,11 USD",68.200
+9697,Capcom Co. Ltd.,"0,144%",Electronic Entertainment,JP,"4.694.034,17 USD",254.360
+7186,Concordia Financial Group Ltd.,"0,1429%",Banks,JP,"4.659.619,49 USD",775.263
+1801,Taisei Corp.,"0,1428%",Construction,JP,"4.655.281,43 USD",122.600
+2875,Toyo Suisan Kaisha Ltd.,"0,1426%",Food Products,JP,"4.649.374,78 USD",64.600
+7259,Aisin Corp.,"0,1414%",Auto Parts,JP,"4.611.154,67 USD",124.100
+8331,Chiba Bank Ltd.,"0,1392%",Banks,JP,"4.537.191,13 USD",477.400
+8473,SBI Holdings Inc.,"0,1381%",Investment Services,JP,"4.502.850,23 USD",174.200
+9107,Kawasaki Kisen Kaisha Ltd.,"0,1361%",Marine Transportation,JP,"4.437.631,81 USD",299.100
+4689,LY Corp.,"0,136%",Consumer Digital Services,JP,"4.433.890,04 USD",1.868.500
+5201,AGC Inc.,"0,1356%",Glass,JP,"4.420.466,45 USD",126.600
+1878,Daito Trust Construction Co. Ltd.,"0,1338%",Real Estate Holding and Development,JP,"4.362.722,33 USD",41.300
+6841,Yokogawa Electric Corp.,"0,1334%",Electronic Equipment: Gauges and Meters,JP,"4.348.180,34 USD",169.300
+7261,Mazda Motor Corp.,"0,1321%",Automobiles,JP,"4.308.687,84 USD",408.500
+3659,Nexon Co. Ltd.,"0,1306%",Electronic Entertainment,JP,"4.259.607,69 USD",248.700
+4528,Ono Pharmaceutical Co. Ltd.,"0,1305%",Pharmaceuticals,JP,"4.256.260,14 USD",294.000
+6645,Omron Corp.,"0,1295%",Electrical Components,JP,"4.221.042,99 USD",129.100
+2768,Sojitz Corp.,"0,1273%",Diversified Industrials,JP,"4.149.833,59 USD",158.900
+2269,MEIJI Holdings Co. Ltd.,"0,1268%",Food Products,JP,"4.135.935,60 USD",184.800
+9042,Hankyu Hanshin Holdings Inc.,"0,1256%",Railroads,JP,"4.095.582,42 USD",156.100
+8951,Nippon Building Fund Inc.,"0,1256%",Office REITs,JP,"4.094.002,35 USD",1.096
+4204,Sekisui Chemical Co. Ltd.,"0,1231%",Home Construction,JP,"4.014.381,62 USD",280.000
+7012,Kawasaki Heavy Industries Ltd.,"0,122%",Diversified Industrials,JP,"3.977.593,94 USD",104.700
+4324,Dentsu Group Inc.,"0,1201%",Media Agencies,JP,"3.915.973,68 USD",147.998
+5803,Fujikura Ltd.,"0,1186%",Electrical Components,JP,"3.867.281,81 USD",188.500
+9508,Kyushu Electric Power Co. Inc.,"0,1183%",Conventional Electricity,JP,"3.856.586,91 USD",330.900
+8593,Mitsubishi HC Capital Inc.,"0,1172%",Consumer Lending,JP,"3.821.931,40 USD",577.220
+4091,Nippon Sanso Holdings Corp.,"0,1166%",Specialty Chemicals,JP,"3.801.912,25 USD",128.900
+2267,Yakult Honsha Co. Ltd.,"0,1162%",Food Products,JP,"3.789.129,56 USD",208.124
+5334,Niterra Co. Ltd.,"0,1158%",Auto Parts,JP,"3.774.303,99 USD",125.500
+6526,Socionext Inc.,"0,1148%",Semiconductors,JP,"3.743.504,41 USD",128.500
+7752,Ricoh Co. Ltd.,"0,1127%",Electronic Office Equipment,JP,"3.676.099,14 USD",411.600
+4183,Mitsui Chemicals Inc.,"0,1127%",Chemicals: Diversified,JP,"3.673.336,73 USD",121.500
+3088,MatsukiyoCocokara & Co.,"0,1124%",Drug Retailers,JP,"3.665.807,99 USD",259.722
+4704,Trend Micro Inc./Japan,"0,1123%",Software,JP,"3.661.849,88 USD",81.300
+5844,Kyoto Financial Group Inc.,"0,1117%",Banks,JP,"3.643.233,96 USD",203.200
+2897,Nissin Foods Holdings Co. Ltd.,"0,1116%",Food Products,JP,"3.639.511,28 USD",144.500
+5831,Shizuoka Financial Group Inc.,"0,1106%",Banks,JP,"3.606.473,32 USD",349.300
+3436,SUMCO Corp.,"0,1101%",Semiconductors,JP,"3.590.381,18 USD",239.275
+6383,Daifuku Co. Ltd.,"0,1086%",Machinery: Industrial,JP,"3.540.563,17 USD",202.800
+9009,Keisei Electric Railway Co. Ltd.,"0,1082%",Railroads,JP,"3.526.938,81 USD",98.200
+1911,Sumitomo Forestry Co. Ltd.,"0,105%",Home Construction,JP,"3.425.239,11 USD",99.200
+9506,Tohoku Electric Power Co. Inc.,"0,1049%",Conventional Electricity,JP,"3.420.974,26 USD",338.000
+9962,MISUMI Group Inc.,"0,1036%",Machinery: Industrial,JP,"3.377.578,67 USD",196.800
+6370,Kurita Water Industries Ltd.,"0,1033%",Electronic Equipment: Pollution Control,JP,"3.369.728,59 USD",78.800
+8354,Fukuoka Financial Group Inc.,"0,1026%",Banks,JP,"3.345.122,02 USD",114.800
+2587,Suntory Beverage & Food Ltd.,"0,1011%",Soft Drinks,JP,"3.297.369,31 USD",90.100
+6448,Brother Industries Ltd.,"0,0967%",Electronic Office Equipment,JP,"3.152.447,74 USD",164.200
+8952,Japan Real Estate Investment Corp.,"0,0959%",Office REITs,JP,"3.128.206,43 USD",949
+4062,Ibiden Co. Ltd.,"0,0959%",Electronic Components,JP,"3.127.307,90 USD",77.600
+5406,Kobe Steel Ltd.,"0,094%",Iron and Steel,JP,"3.065.512,11 USD",236.200
+9143,SG Holdings Co. Ltd.,"0,0932%",Delivery Services,JP,"3.039.679,28 USD",300.800
+4151,Kyowa Kirin Co. Ltd.,"0,0929%",Pharmaceuticals,JP,"3.028.194,34 USD",179.200
+3462,Nomura Real Estate Master Fund Inc.,"0,0924%",Diversified REITs,JP,"3.011.427,66 USD",3.204
+3626,TIS Inc.,"0,0918%",Computer Services,JP,"2.992.847,69 USD",163.900
+6724,Seiko Epson Corp.,"0,0917%",Computer Hardware,JP,"2.989.400,24 USD",185.900
+6963,Rohm Co. Ltd.,"0,0912%",Semiconductors,JP,"2.973.466,52 USD",230.407
+3289,Tokyu Fudosan Holdings Corp.,"0,0906%",Real Estate Holding and Development,JP,"2.955.555,10 USD",427.671
+2413,M3 Inc.,"0,0899%",Health Care Services,JP,"2.930.517,83 USD",302.176
+3405,Kuraray Co. Ltd.,"0,0893%",Chemicals and Synthetic Fibers,JP,"2.910.520,22 USD",239.400
+6465,Hoshizaki Corp.,"0,0892%",Machinery: Industrial,JP,"2.909.134,88 USD",81.200
+3283,Nippon Prologis REIT Inc.,"0,0891%",Industrial REITs,JP,"2.904.649,85 USD",1.761
+8953,Japan Metropolitan Fund Invest,"0,0885%",Retail REITs,JP,"2.884.278,85 USD",4.900
+8972,KDX Realty Investment Corp.,"0,0873%",Office REITs,JP,"2.846.921,63 USD",2.953
+5021,Cosmo Energy Holdings Co. Ltd.,"0,0872%",Oil Refining and Marketing,JP,"2.841.988,15 USD",57.169
+4004,Resonac Holdings Corp.,"0,0866%",Chemicals: Diversified,JP,"2.823.975,82 USD",127.815
+4768,Otsuka Corp.,"0,0865%",Computer Services,JP,"2.820.800,53 USD",148.700
+7453,Ryohin Keikaku Co. Ltd.,"0,0848%",Diversified Retailers,JP,"2.765.819,78 USD",168.300
+3281,GLP J-Reit,"0,0847%",Industrial REITs,JP,"2.761.223,71 USD",3.325
+3003,Hulic Co. Ltd.,"0,0838%",Real Estate Holding and Development,JP,"2.732.775,89 USD",295.759
+9041,Kintetsu Group Holdings Co. Ltd.,"0,0835%",Railroads,JP,"2.721.854,97 USD",128.100
+9435,Hikari Tsushin Inc.,"0,0834%",Telecommunications Services,JP,"2.719.042,92 USD",16.600
+7167,Mebuki Financial Group Inc.,"0,0823%",Banks,JP,"2.683.999,24 USD",669.700
+6113,Amada Co. Ltd.,"0,0823%",Machinery: Specialty,JP,"2.682.223,42 USD",238.000
+6965,Hamamatsu Photonics KK,"0,0821%",Semiconductors,JP,"2.677.100,77 USD",91.000
+7181,Japan Post Insurance Co. Ltd.,"0,0802%",Life Insurance,JP,"2.616.424,96 USD",136.100
+5929,Sanwa Holdings Corp.,"0,0792%",Building Materials: Other,JP,"2.583.453,50 USD",139.200
+5332,TOTO Ltd.,"0,0792%",Building Materials: Other,JP,"2.582.477,97 USD",103.500
+2702,McDonald's Holdings Co. Japan Ltd.,"0,0788%",Restaurants and Bars,JP,"2.569.524,96 USD",62.700
+4021,Nissan Chemical Corp.,"0,0784%",Chemicals: Diversified,JP,"2.557.509,31 USD",92.200
+3861,Oji Holdings Corp.,"0,0783%",Paper,JP,"2.553.429,00 USD",632.900
+9001,Tobu Railway Co. Ltd.,"0,0782%",Railroads,JP,"2.549.019,06 USD",144.400
+8253,Credit Saison Co. Ltd.,"0,0775%",Transaction Processing Services,JP,"2.526.475,55 USD",116.600
+4042,Tosoh Corp.,"0,0772%",Chemicals: Diversified,JP,"2.517.487,03 USD",198.500
+8984,Daiwa House REIT Investment Corp.,"0,0771%",Residential REITs,JP,"2.514.202,81 USD",1.588
+7550,Zensho Holdings Co. Ltd.,"0,0768%",Restaurants and Bars,JP,"2.505.252,47 USD",63.900
+9602,Toho Co. Ltd./Tokyo,"0,0767%",Entertainment,JP,"2.501.317,89 USD",79.200
+7951,Yamaha Corp.,"0,0758%",Recreational Products,JP,"2.471.012,12 USD",108.800
+4182,Mitsubishi Gas Chemical Co. Inc.,"0,0757%",Chemicals: Diversified,JP,"2.467.944,89 USD",131.600
+6845,Azbil Corp.,"0,0757%",Electronic Equipment: Gauges and Meters,JP,"2.466.756,18 USD",89.400
+6728,Ulvac Inc.,"0,0754%",Production Technology Equipment,JP,"2.458.875,56 USD",34.500
+4527,Rohto Pharmaceutical Co. Ltd.,"0,0746%",Pharmaceuticals,JP,"2.433.411,82 USD",138.500
+7013,IHI Corp.,"0,0734%",Diversified Industrials,JP,"2.393.071,37 USD",92.900
+9007,Odakyu Electric Railway Co. Ltd.,"0,0729%",Travel and Tourism,JP,"2.377.363,90 USD",226.900
+9147,NIPPON EXPRESS HOLDINGS Inc.,"0,0727%",Transportation Services,JP,"2.371.253,94 USD",48.100
+5101,Yokohama Rubber Co. Ltd.,"0,0723%",Tires,JP,"2.356.804,23 USD",94.000
+8804,Tokyo Tatemono Co. Ltd.,"0,0715%",Real Estate Holding and Development,JP,"2.332.816,19 USD",144.100
+6806,Hirose Electric Co. Ltd.,"0,0714%",Electronic Components,JP,"2.327.245,54 USD",20.898
+5333,NGK Insulators Ltd.,"0,0709%",Electrical Components,JP,"2.310.923,99 USD",173.300
+4732,USS Co. Ltd.,"0,0693%",Consumer Services: Misc.,JP,"2.259.728,28 USD",290.000
+7731,Nikon Corp.,"0,0691%",Photography,JP,"2.251.888,38 USD",217.100
+9024,Seibu Holdings Inc.,"0,069%",Hotels and Motels,JP,"2.249.232,96 USD",151.211
+9064,Yamato Holdings Co. Ltd.,"0,0686%",Delivery Services,JP,"2.238.381,11 USD",195.200
+7276,Koito Manufacturing Co. Ltd.,"0,0685%",Auto Parts,JP,"2.233.394,00 USD",158.200
+1803,Shimizu Corp.,"0,0685%",Construction,JP,"2.232.568,52 USD",403.400
+9142,Kyushu Railway Co.,"0,0684%",Travel and Tourism,JP,"2.231.344,67 USD",101.401
+4536,Santen Pharmaceutical Co. Ltd.,"0,0678%",Pharmaceuticals,JP,"2.210.793,85 USD",213.400
+4005,Sumitomo Chemical Co. Ltd.,"0,0678%",Chemicals: Diversified,JP,"2.209.922,36 USD",1.077.500
+3038,Kobe Bussan Co. Ltd.,"0,0677%",Food Retailers and Wholesalers,JP,"2.208.506,16 USD",99.700
+4613,Kansai Paint Co. Ltd.,"0,0675%",Paints and Coatings,JP,"2.200.769,99 USD",132.000
+6302,Sumitomo Heavy Industries Ltd.,"0,0672%",Machinery: Industrial,JP,"2.190.384,68 USD",80.800
+2282,NH Foods Ltd.,"0,067%",Food Products,JP,"2.185.574,47 USD",71.300
+6856,Horiba Ltd.,"0,067%",Electronic Equipment: Gauges and Meters,JP,"2.183.970,22 USD",27.500
+3197,Skylark Holdings Co. Ltd.,"0,0667%",Restaurants and Bars,JP,"2.174.478,50 USD",158.052
+9202,ANA Holdings Inc.,"0,0655%",Airlines,JP,"2.137.344,13 USD",112.257
+8359,Hachijuni Bank Ltd.,"0,0653%",Banks,JP,"2.129.510,96 USD",308.000
+6141,DMG Mori Co. Ltd.,"0,065%",Machinery: Tools,JP,"2.118.209,30 USD",74.500
+8963,Invincible Investment Corp.,"0,0645%",Hotel and Lodging REITs,JP,"2.102.742,05 USD",4.838
+8136,Sanrio Co. Ltd.,"0,0637%",Toys,JP,"2.075.809,60 USD",134.600
+1808,Haseko Corp.,"0,0636%",Home Construction,JP,"2.072.608,74 USD",183.700
+2002,Nisshin Seifun Group Inc.,"0,0634%",Fruit and Grain Processing,JP,"2.066.197,14 USD",184.275
+6305,Hitachi Construction Machinery Co. Ltd.,"0,063%",Machinery: Construction and Handling,JP,"2.055.426,52 USD",76.000
+8088,Iwatani Corp.,"0,063%",Gas Distribution,JP,"2.054.233,99 USD",35.400
+5938,Lixil Corp.,"0,0626%",Building Materials: Other,JP,"2.040.647,17 USD",185.900
+7459,MediPal Holdings Corp.,"0,0617%",Drug Retailers,JP,"2.012.673,65 USD",136.800
+3231,Nomura Real Estate Holdings Inc.,"0,0617%",Real Estate Holding and Development,JP,"2.012.496,10 USD",78.300
+4186,Tokyo Ohka Kogyo Co. Ltd.,"0,0616%",Specialty Chemicals,JP,"2.008.972,60 USD",77.000
+7747,Asahi Intecc Co. Ltd.,"0,0616%",Medical Equipment,JP,"2.008.875,37 USD",139.560
+4403,NOF Corp.,"0,0614%",Chemicals: Diversified,JP,"2.002.812,69 USD",155.500
+9513,Electric Power Development Co. Ltd.,"0,0614%",Conventional Electricity,JP,"2.000.473,77 USD",119.100
+5233,Taiheiyo Cement Corp.,"0,0613%",Cement,JP,"1.998.556,75 USD",80.200
+9008,Keio Corp.,"0,0611%",Travel and Tourism,JP,"1.991.388,84 USD",82.700
+3269,Advance Residence Investment Corp.,"0,061%",Residential REITs,JP,"1.988.615,61 USD",966
+6532,BayCurrent Consulting Inc.,"0,0604%",Professional Business Support Services,JP,"1.969.559,32 USD",96.600
+9719,SCSK Corp.,"0,0601%",Computer Services,JP,"1.958.839,29 USD",103.400
+8252,Marui Group Co. Ltd.,"0,0595%",Diversified Retailers,JP,"1.939.500,14 USD",130.500
+8954,Orix JREIT Inc.,"0,059%",Office REITs,JP,"1.924.221,58 USD",1.897
+7729,Tokyo Seimitsu Co. Ltd.,"0,0587%",Production Technology Equipment,JP,"1.912.930,73 USD",26.900
+2212,Yamazaki Baking Co. Ltd.,"0,0578%",Food Products,JP,"1.885.296,38 USD",85.700
+8960,United Urban Investment Corp.,"0,0578%",Diversified REITs,JP,"1.884.681,66 USD",2.117
+4088,Air Water Inc.,"0,0571%",Specialty Chemicals,JP,"1.861.968,56 USD",127.300
+6976,Taiyo Yuden Co. Ltd.,"0,0569%",Electronic Components,JP,"1.853.999,17 USD",88.100
+5830,Iyogin Holdings Inc.,"0,0562%",Banks,JP,"1.833.418,18 USD",195.000
+1944,Kinden Corp.,"0,0562%",Engineering and Contracting Services,JP,"1.832.244,11 USD",86.000
+2181,Persol Holdings Co. Ltd.,"0,0559%",Business Training and Employment Agencie,JP,"1.823.579,34 USD",1.267.432
+4751,CyberAgent Inc.,"0,0558%",Consumer Digital Services,JP,"1.820.483,85 USD",302.570
+5901,Toyo Seikan Group Holdings Ltd.,"0,0555%",Containers and Packaging,JP,"1.809.003,79 USD",109.400
+3092,ZOZO Inc.,"0,0553%",Diversified Retailers,JP,"1.802.195,42 USD",77.000
+9201,Japan Airlines Co. Ltd.,"0,0551%",Airlines,JP,"1.794.999,78 USD",106.544
+3064,MonotaRO Co. Ltd.,"0,0548%",Diversified Retailers,JP,"1.787.194,12 USD",169.390
+7180,Kyushu Financial Group Inc.,"0,0543%",Banks,JP,"1.770.688,22 USD",266.400
+5711,Mitsubishi Materials Corp.,"0,0539%",Diversified Industrials,JP,"1.756.188,87 USD",90.100
+3086,J Front Retailing Co. Ltd.,"0,0533%",Diversified Retailers,JP,"1.738.860,29 USD",179.300
+9706,Japan Airport Terminal Co. Ltd.,"0,0533%",Transportation Services,JP,"1.737.831,30 USD",49.500
+5947,Rinnai Corp.,"0,0531%",Household Appliance,JP,"1.731.660,57 USD",72.200
+8418,Yamaguchi Financial Group Inc.,"0,0523%",Banks,JP,"1.704.413,12 USD",139.500
+4202,Daicel Corp.,"0,0522%",Chemicals: Diversified,JP,"1.701.199,53 USD",168.400
+9533,Toho Gas Co. Ltd.,"0,0519%",Gas Distribution,JP,"1.692.691,46 USD",64.500
+8985,Japan Hotel REIT Investment Corp.,"0,0519%",Hotel and Lodging REITs,JP,"1.691.442,93 USD",3.399
+6967,Shinko Electric Industries Co. Ltd.,"0,0519%",Semiconductors,JP,"1.691.192,85 USD",47.500
+6481,THK Co. Ltd.,"0,0518%",Machinery: Industrial,JP,"1.687.724,08 USD",87.300
+9987,Suzuken Co. Ltd./Aichi Japan,"0,0513%",Drug Retailers,JP,"1.671.345,83 USD",55.340
+8439,Tokyo Century Corp.,"0,0503%",Rental and Leasing Services: Consumer,JP,"1.641.152,44 USD",177.800
+9684,Square Enix Holdings Co. Ltd.,"0,0503%",Electronic Entertainment,JP,"1.639.137,74 USD",54.700
+2871,Nichirei Corp.,"0,05%",Food Products,JP,"1.628.814,15 USD",72.000
+4716,Oracle Corp. Japan,"0,0497%",Software,JP,"1.621.922,43 USD",22.900
+6849,Nihon Kohden Corp.,"0,0492%",Medical Equipment,JP,"1.604.995,39 USD",52.600
+9048,Nagoya Railroad Co. Ltd.,"0,0492%",Transportation Services,JP,"1.602.914,19 USD",139.900
+4922,Kose Corp.,"0,0488%",Cosmetics,JP,"1.591.892,84 USD",24.100
+8233,Takashimaya Co. Ltd.,"0,0486%",Diversified Retailers,JP,"1.585.069,84 USD",95.600
+7337,Hirogin Holdings Inc.,"0,0481%",Banks,JP,"1.566.741,54 USD",192.800
+6460,Sega Sammy Holdings Inc.,"0,0474%",Electronic Entertainment,JP,"1.546.621,59 USD",109.900
+6923,Stanley Electric Co. Ltd.,"0,0474%",Auto Parts,JP,"1.546.082,28 USD",84.200
+3391,Tsuruha Holdings Inc.,"0,0472%",Drug Retailers,JP,"1.539.037,19 USD",26.000
+2501,Sapporo Holdings Ltd.,"0,0469%",Brewers,JP,"1.530.130,77 USD",45.300
+2809,Kewpie Corp.,"0,0469%",Food Products,JP,"1.529.311,15 USD",77.200
+9504,Chugoku Electric Power Co. Inc.,"0,0467%",Conventional Electricity,JP,"1.521.286,07 USD",212.500
+1721,COMSYS Holdings Corp.,"0,0466%",Engineering and Contracting Services,JP,"1.520.463,27 USD",75.900
+2784,Alfresa Holdings Corp.,"0,0466%",Pharmaceuticals,JP,"1.519.848,87 USD",107.900
+8227,Shimamura Co. Ltd.,"0,0461%",Apparel Retailers,JP,"1.504.610,39 USD",31.400
+6471,NSK Ltd.,"0,046%",Auto Parts,JP,"1.499.674,76 USD",306.100
+3309,Sekisui House Reit Inc.,"0,0458%",Residential REITs,JP,"1.494.207,90 USD",2.867
+9301,Mitsubishi Logistics Corp.,"0,0458%",Transportation Services,JP,"1.493.928,54 USD",45.400
+3288,Open House Group Co. Ltd.,"0,0454%",Real Estate Holding and Development,JP,"1.481.701,61 USD",51.400
+1951,EXEO Group Inc.,"0,0444%",Engineering and Contracting Services,JP,"1.449.205,51 USD",141.100
+4912,Lion Corp.,"0,0444%",Personal Products,JP,"1.447.953,16 USD",180.300
+5110,Sumitomo Rubber Industries Ltd.,"0,0443%",Tires,JP,"1.444.794,30 USD",128.200
+6005,Miura Co. Ltd.,"0,0439%",Machinery: Industrial,JP,"1.432.944,10 USD",69.500
+4967,Kobayashi Pharmaceutical Co. Ltd.,"0,0435%",Personal Products,JP,"1.419.910,91 USD",41.100
+2331,Sohgo Security Services Co. Ltd.,"0,0435%",Security Services,JP,"1.419.494,61 USD",235.700
+2433,Hakuhodo DY Holdings Inc.,"0,0431%",Media Agencies,JP,"1.406.089,28 USD",170.100
+8012,Nagase & Co. Ltd.,"0,0431%",Chemicals: Diversified,JP,"1.403.932,04 USD",71.700
+7988,Nifco Inc./Japan,"0,043%",Auto Parts,JP,"1.402.414,33 USD",58.800
+8955,Japan Prime Realty Investment Corp.,"0,0421%",Office REITs,JP,"1.373.409,91 USD",657
+3291,Iida Group Holdings Co. Ltd.,"0,0421%",Home Construction,JP,"1.372.613,83 USD",100.700
+3249,Industrial & Infrastructure Fund Investment Corp.,"0,042%",Industrial REITs,JP,"1.368.551,34 USD",1.715
+5631,Japan Steel Works Ltd.,"0,041%",Machinery: Industrial,JP,"1.336.704,32 USD",44.400
+3563,Food & Life Cos. Ltd.,"0,0408%",Restaurants and Bars,JP,"1.331.190,94 USD",73.400
+9044,Nankai Electric Railway Co. Ltd.,"0,0407%",Diversified Industrials,JP,"1.328.445,70 USD",80.400
+6674,GS Yuasa Corp.,"0,0407%",Auto Parts,JP,"1.326.402,37 USD",62.500
+9364,Kamigumi Co. Ltd.,"0,0407%",Transportation Services,JP,"1.325.987,46 USD",65.300
+3132,Macnica Holdings Inc.,"0,0407%",Semiconductors,JP,"1.325.731,01 USD",32.400
+5105,Toyo Tire Corp.,"0,0404%",Tires,JP,"1.316.137,96 USD",73.800
+8111,GOLDWIN Inc.,"0,0404%",Clothing and Accessories,JP,"1.315.996,05 USD",25.300
+3226,Nippon Accommodations Fund Inc.,"0,0402%",Residential REITs,JP,"1.309.236,69 USD",324
+6268,Nabtesco Corp.,"0,0401%",Machinery: Industrial,JP,"1.306.852,27 USD",79.800
+4208,UBE Corp.,"0,0401%",Chemicals: Diversified,JP,"1.305.962,65 USD",71.000
+6770,Alps Alpine Co. Ltd.,"0,04%",Electronic Components,JP,"1.305.401,38 USD",138.700
+5706,Mitsui Mining & Smelting Co. Ltd.,"0,0398%",Nonferrous Metals,JP,"1.298.515,38 USD",40.200
+3401,Teijin Ltd.,"0,0398%",Chemicals and Synthetic Fibers,JP,"1.298.087,75 USD",133.500
+5344,Maruwa Co. Ltd./Aichi,"0,0398%",Electrical Components,JP,"1.297.336,85 USD",5.800
+9065,Sankyu Inc.,"0,0398%",Trucking,JP,"1.296.233,41 USD",35.900
+6951,Jeol Ltd.,"0,0397%",Electronic Equipment: Gauges and Meters,JP,"1.294.519,07 USD",30.200
+4203,Sumitomo Bakelite Co. Ltd.,"0,0396%",Plastics,JP,"1.292.513,28 USD",46.800
+5214,Nippon Electric Glass Co. Ltd.,"0,0396%",Glass,JP,"1.290.881,03 USD",54.900
+9006,Keikyu Corp.,"0,0394%",Railroads,JP,"1.285.706,83 USD",174.400
+7211,Mitsubishi Motors Corp.,"0,0393%",Automobiles,JP,"1.282.553,12 USD",461.100
+8304,Aozora Bank Ltd.,"0,0393%",Banks,JP,"1.282.513,60 USD",85.200
+9045,Keihan Holdings Co. Ltd.,"0,0391%",Railroads,JP,"1.273.930,45 USD",68.700
+9468,Kadokawa Corp.,"0,0391%",Publishing,JP,"1.273.695,00 USD",61.700
+7164,Zenkoku Hosho Co. Ltd.,"0,0388%",Consumer Lending,JP,"1.265.134,75 USD",35.300
+5471,Daido Steel Co. Ltd.,"0,0388%",Iron and Steel,JP,"1.264.623,44 USD",125.500
+3279,Activia Properties Inc.,"0,0387%",Diversified REITs,JP,"1.260.956,44 USD",537
+5832,Chugin Financial Group Inc.,"0,0386%",Banks,JP,"1.258.108,12 USD",116.400
+6028,TechnoPro Holdings Inc.,"0,0386%",Computer Services,JP,"1.257.722,59 USD",75.668
+5444,Yamato Kogyo Co. Ltd.,"0,0384%",Iron and Steel,JP,"1.252.346,56 USD",24.000
+3769,GMO Payment Gateway Inc.,"0,0382%",Transaction Processing Services,JP,"1.245.451,71 USD",28.871
+9749,Fuji Soft Inc.,"0,0379%",Software,JP,"1.237.074,04 USD",30.000
+6417,Sankyo Co. Ltd.,"0,0379%",Casinos and Gambling,JP,"1.235.764,42 USD",126.800
+9989,Sundrug Co. Ltd.,"0,0378%",Drug Retailers,JP,"1.233.294,09 USD",48.500
+5991,NHK Spring Co. Ltd.,"0,0378%",Auto Parts,JP,"1.231.881,38 USD",111.000
+1963,JGC Holdings Corp.,"0,0377%",Engineering and Contracting Services,JP,"1.229.185,15 USD",154.900
+3466,LaSalle Logiport REIT,"0,0375%",Industrial REITs,JP,"1.221.865,16 USD",1.300
+2811,Kagome Co. Ltd.,"0,0374%",Soft Drinks,JP,"1.219.383,37 USD",53.600
+4631,DIC Corp.,"0,0371%",Specialty Chemicals,JP,"1.208.544,97 USD",58.400
+5714,Dowa Holdings Co. Ltd.,"0,0369%",Nonferrous Metals,JP,"1.202.838,14 USD",32.500
+1414,SHO-BOND Holdings Co. Ltd.,"0,0369%",Engineering and Contracting Services,JP,"1.202.149,61 USD",31.900
+8056,BIPROGY Inc.,"0,0367%",Computer Services,JP,"1.196.603,77 USD",45.300
+2579,Coca-Cola Bottlers Japan Holdings Inc.,"0,0366%",Soft Drinks,JP,"1.194.107,35 USD",102.400
+5076,INFRONEER Holdings Inc.,"0,0362%",Construction,JP,"1.181.107,89 USD",136.224
+9831,Yamada Holdings Co. Ltd.,"0,0359%",Specialty Retailers,JP,"1.171.448,03 USD",418.000
+1959,Kyudenko Corp.,"0,0358%",Construction,JP,"1.168.491,52 USD",28.700
+9076,Seino Holdings Co. Ltd.,"0,0357%",Delivery Services,JP,"1.164.825,48 USD",89.400
+7984,Kokuyo Co. Ltd.,"0,0357%",Industrial Suppliers,JP,"1.164.695,66 USD",67.800
+6436,Amano Corp.,"0,0354%",Transportation Services,JP,"1.155.477,43 USD",48.100
+4118,Kaneka Corp.,"0,0354%",Chemicals: Diversified,JP,"1.152.863,28 USD",42.900
+7649,Sugi Holdings Co. Ltd.,"0,0353%",Drug Retailers,JP,"1.150.691,40 USD",74.200
+6473,JTEKT Corp.,"0,0352%",Auto Parts,JP,"1.146.364,19 USD",158.300
+4540,Tsumura & Co.,"0,0351%",Pharmaceuticals,JP,"1.143.688,95 USD",45.500
+8967,Japan Logistics Fund Inc.,"0,0349%",Industrial REITs,JP,"1.137.247,76 USD",658
+1860,Toda Corp.,"0,0346%",Construction,JP,"1.126.626,68 USD",162.500
+4887,Sawai Group Holdings Co. Ltd.,"0,0342%",Pharmaceuticals,JP,"1.116.258,23 USD",28.700
+6592,Mabuchi Motor Co. Ltd.,"0,0339%",Electrical Components,JP,"1.104.810,84 USD",71.300
+5838,Rakuten Bank Ltd.,"0,0339%",Banks,JP,"1.103.779,95 USD",60.500
+3471,Mitsui Fudosan Logistics Park Inc.,"0,0338%",Industrial REITs,JP,"1.102.885,87 USD",393
+2264,Morinaga Milk Industry Co. Ltd.,"0,0337%",Food Products,JP,"1.100.290,81 USD",53.300
+7518,NET One Systems Co. Ltd.,"0,0333%",Computer Services,JP,"1.086.966,18 USD",57.300
+2670,ABC-Mart Inc.,"0,0333%",Apparel Retailers,JP,"1.086.531,55 USD",56.500
+8424,Fuyo General Lease Co. Ltd.,"0,0332%",Rental and Leasing Services: Consumer,JP,"1.082.783,42 USD",13.700
+6952,Casio Computer Co. Ltd.,"0,0331%",Consumer Electronics,JP,"1.078.087,12 USD",144.800
+3292,AEON REIT Investment Corp.,"0,0328%",Retail REITs,JP,"1.068.007,25 USD",1.260
+3048,Bic Camera Inc.,"0,0326%",Specialty Retailers,JP,"1.063.695,31 USD",106.400
+3774,Internet Initiative Japan Inc.,"0,0324%",Telecommunications Services,JP,"1.056.906,04 USD",75.000
+9507,Shikoku Electric Power Co. Inc.,"0,0323%",Conventional Electricity,JP,"1.053.666,36 USD",109.800
+3994,Money Forward Inc.,"0,0318%",Software,JP,"1.036.408,41 USD",31.600
+5463,Maruichi Steel Tube Ltd.,"0,0315%",Metal Fabricating,JP,"1.026.314,55 USD",43.100
+4114,Nippon Shokubai Co. Ltd.,"0,0313%",Chemicals: Diversified,JP,"1.021.135,89 USD",96.900
+3349,Cosmos Pharmaceutical Corp.,"0,0312%",Drug Retailers,JP,"1.016.524,36 USD",12.588
+2229,Calbee Inc.,"0,0311%",Fruit and Grain Processing,JP,"1.015.286,52 USD",51.600
+4530,Hisamitsu Pharmaceutical Co. Inc.,"0,0311%",Pharmaceuticals,JP,"1.012.781,83 USD",42.600
+3941,Rengo Co. Ltd.,"0,0304%",Containers and Packaging,JP,"991.100,58 USD",147.000
+4385,Mercari Inc.,"0,0303%",Consumer Digital Services,JP,"986.807,09 USD",84.600
+8282,K's Holdings Corp.,"0,0302%",Specialty Retailers,JP,"984.567,76 USD",105.900
+2371,Kakaku.com Inc.,"0,0301%",Consumer Digital Services,JP,"982.026,79 USD",81.200
+7240,NOK Corp.,"0,0301%",Auto Parts,JP,"981.307,07 USD",70.900
+8964,Frontier Real Estate Investment Corp.,"0,03%",Retail REITs,JP,"979.604,82 USD",344
+2593,Ito En Ltd.,"0,0296%",Soft Drinks,JP,"966.721,82 USD",40.500
+8986,Daiwa Securities Living Investments Corp.,"0,0294%",Residential REITs,JP,"960.022,91 USD",1.452
+2810,House Foods Group Inc.,"0,0294%",Food Products,JP,"958.995,83 USD",52.200
+3141,Welcia Holdings Co. Ltd.,"0,0294%",Drug Retailers,JP,"957.012,72 USD",69.416
+2206,Ezaki Glico Co. Ltd.,"0,0286%",Food Products,JP,"932.680,01 USD",36.100
+6925,Ushio Inc.,"0,0285%",Electrical Components,JP,"929.374,78 USD",69.200
+4902,Konica Minolta Inc.,"0,0284%",Electronic Office Equipment,JP,"926.870,09 USD",309.900
+4666,Park24 Co. Ltd.,"0,0283%",Transportation Services,JP,"923.254,32 USD",88.900
+3635,Koei Tecmo Holdings Co. Ltd.,"0,0283%",Electronic Entertainment,JP,"922.991,94 USD",106.026
+3234,Mori Hills REIT Investment Corp.,"0,0282%",Office REITs,JP,"917.953,48 USD",1.102
+4272,Nippon Kayaku Co. Ltd.,"0,0281%",Chemicals: Diversified,JP,"917.813,17 USD",112.900
+6324,Harmonic Drive Systems Inc.,"0,0281%",Machinery: Industrial,JP,"917.044,77 USD",34.600
+6753,Sharp Corp./Japan,"0,0279%",Electronic Components,JP,"908.825,10 USD",147.204
+7282,Toyoda Gosei Co. Ltd.,"0,0277%",Auto Parts,JP,"902.968,60 USD",46.600
+4205,Zeon Corp.,"0,0275%",Chemicals: Diversified,JP,"896.575,77 USD",96.800
+8060,Canon Marketing Japan Inc.,"0,0275%",Electronic Office Equipment,JP,"896.458,68 USD",31.800
+6103,OKUMA Corp.,"0,027%",Machinery: Industrial,JP,"881.049,99 USD",20.600
+4061,Denka Co. Ltd.,"0,0266%",Chemicals: Diversified,JP,"868.619,75 USD",61.500
+2201,Morinaga & Co. Ltd./Japan,"0,0265%",Food Products,JP,"863.768,49 USD",54.100
+8279,Yaoko Co. Ltd.,"0,0264%",Food Retailers and Wholesalers,JP,"861.162,62 USD",14.600
+1942,Kandenko Co. Ltd.,"0,0263%",Construction,JP,"858.895,92 USD",72.100
+5301,Tokai Carbon Co. Ltd.,"0,0263%",Specialty Chemicals,JP,"858.811,93 USD",135.500
+2127,Nihon M&A Center Holdings Inc.,"0,0261%",Investment Services,JP,"851.640,88 USD",183.935
+7313,TS Tech Co. Ltd.,"0,0261%",Auto Parts,JP,"849.498,17 USD",71.235
+4733,OBIC Business Consultants Co. Ltd.,"0,0254%",Software,JP,"828.255,67 USD",20.663
+9003,Sotetsu Holdings Inc.,"0,0253%",Travel and Tourism,JP,"825.669,60 USD",53.100
+3360,Ship Healthcare Holdings Inc.,"0,0251%",Medical Equipment,JP,"819.166,41 USD",55.570
+9031,Nishi-Nippon Railroad Co. Ltd.,"0,0247%",Railroads,JP,"804.976,61 USD",51.100
+2531,Takara Holdings Inc.,"0,0245%",Distillers and Vintners,JP,"800.296,86 USD",118.700
+8905,Aeon Mall Co. Ltd.,"0,0243%",Real Estate Holding and Development,JP,"793.937,70 USD",65.960
+1893,Penta-Ocean Construction Co. Ltd.,"0,024%",Engineering and Contracting Services,JP,"783.251,14 USD",195.000
+4206,Aica Kogyo Co. Ltd.,"0,0239%",Specialty Chemicals,JP,"778.531,93 USD",35.400
+8876,Relo Group Inc.,"0,0237%",Real Estate Services,JP,"773.613,54 USD",76.700
+4587,PeptiDream Inc.,"0,0233%",Biotechnology,JP,"760.560,63 USD",60.700
+8410,Seven Bank Ltd.,"0,0233%",Banks,JP,"759.241,21 USD",450.400
+3697,SHIFT Inc.,"0,0231%",Computer Services,JP,"751.980,65 USD",7.800
+6966,Mitsui High-Tec Inc.,"0,0231%",Semiconductors,JP,"751.667,57 USD",16.800
+3923,Rakus Co. Ltd.,"0,0229%",Computer Services,JP,"747.924,85 USD",65.900
+7956,Pigeon Corp.,"0,0229%",Personal Products,JP,"747.017,09 USD",78.000
+6136,OSG Corp.,"0,0228%",Machinery: Tools,JP,"741.951,70 USD",60.100
+2222,Kotobuki Spirits Co. Ltd.,"0,0225%",Food Products,JP,"733.596,53 USD",66.387
+3397,Toridoll Holdings Corp.,"0,0224%",Restaurants and Bars,JP,"729.673,23 USD",30.700
+2327,NS Solutions Corp.,"0,0222%",Computer Services,JP,"723.726,49 USD",22.300
+8572,Acom Co. Ltd.,"0,0222%",Consumer Lending,JP,"723.215,82 USD",282.500
+7564,Workman Co. Ltd.,"0,0221%",Apparel Retailers,JP,"719.679,28 USD",30.900
+4516,Nippon Shinyaku Co. Ltd.,"0,0218%",Pharmaceuticals,JP,"709.853,32 USD",36.300
+8570,AEON Financial Service Co. Ltd.,"0,0212%",Consumer Lending,JP,"690.209,04 USD",82.200
+4681,Resorttrust Inc.,"0,0211%",Hotels and Motels,JP,"688.836,42 USD",44.400
+3549,Kusuri no Aoki Holdings Co. Ltd.,"0,021%",Drug Retailers,JP,"683.979,76 USD",33.800
+6754,Anritsu Corp.,"0,021%",Telecommunications Equipment,JP,"683.683,22 USD",93.100
+4185,JSR Corp.,"0,0205%",Chemicals: Diversified,JP,"667.636,07 USD",24.202
+1973,NEC Networks & System Integration Corp.,"0,0203%",Computer Services,JP,"661.517,71 USD",46.700
+9449,GMO internet group Inc.,"0,0199%",Consumer Digital Services,JP,"649.153,33 USD",41.200
+8976,Daiwa Office Investment Corp.,"0,019%",Office REITs,JP,"619.618,82 USD",350
+3116,Toyota Boshoku Corp.,"0,0187%",Auto Parts,JP,"609.131,69 USD",41.800
+8086,Nipro Corp.,"0,0186%",Medical Equipment,JP,"606.415,73 USD",78.400
+4921,Fancl Corp.,"0,0181%",Cosmetics,JP,"588.842,79 USD",46.900
+8273,Izumi Co. Ltd.,"0,018%",Diversified Retailers,JP,"585.800,38 USD",27.300
+8283,PALTAC Corp.,"0,0175%",Personal Products,JP,"571.964,75 USD",21.800
+7458,Daiichikosho Co. Ltd.,"0,0173%",Consumer Electronics,JP,"562.495,78 USD",53.800
+8114,Descente Ltd.,"0,0171%",Clothing and Accessories,JP,"556.396,96 USD",26.100
+9401,TBS Holdings Inc.,"0,0169%",Radio and TV Broadcasters,JP,"551.610,30 USD",23.600
+6755,Fujitsu General Ltd.,"0,0167%",Building: Climate Control,JP,"544.297,62 USD",39.700
+7947,FP Corp.,"0,0165%",Containers and Packaging,JP,"539.341,05 USD",34.700
+7205,Hino Motors Ltd.,"0,0165%",Commercial Vehicles and Parts,JP,"538.081,14 USD",192.700
+7730,Mani Inc.,"0,0163%",Medical Supplies,JP,"530.448,95 USD",44.600
+4812,Dentsu Soken Inc.,"0,0162%",Computer Services,JP,"526.609,18 USD",16.100
+6707,Sanken Electric Co. Ltd.,"0,0161%",Semiconductors,JP,"526.361,00 USD",14.200
+9010,Fuji Kyuko Co. Ltd.,"0,0158%",Recreational Services,JP,"515.428,43 USD",26.600
+4816,Toei Animation Co. Ltd.,"0,0157%",Entertainment,JP,"511.252,66 USD",33.700
+7476,As One Corp.,"0,0151%",Medical Equipment,JP,"492.687,96 USD",31.100
+2296,Itoham Yonekyu Holdings Inc.,"0,0148%",Food Products,JP,"482.169,97 USD",18.280
+2607,Fuji Oil Holdings Inc.,"0,0145%",Food Products,JP,"471.825,38 USD",30.000
+6807,Japan Aviation Electronics Industry Ltd.,"0,0143%",Electronic Components,JP,"467.172,99 USD",30.100
+6412,Heiwa Corp.,"0,0143%",Recreational Services,JP,"465.689,65 USD",36.300
+2678,ASKUL Corp.,"0,0134%",Diversified Retailers,JP,"437.867,41 USD",30.967
+2175,SMS Co. Ltd.,"0,0132%",Business Training and Employment Agencie,JP,"431.072,58 USD",34.900
+4927,Pola Orbis Holdings Inc.,"0,0132%",Cosmetics,JP,"430.621,40 USD",50.500
+4686,Justsystems Corp.,"0,0129%",Software,JP,"421.286,07 USD",23.900
+4676,Fuji Media Holdings Inc.,"0,0117%",Radio and TV Broadcasters,JP,"381.446,43 USD",33.600
+4483,JMDC Inc.,"0,0115%",Professional Business Support Services,JP,"374.808,30 USD",21.500
+4928,Noevir Holdings Co. Ltd.,"0,0109%",Cosmetics,JP,"355.906,96 USD",10.300
+8628,Matsui Securities Co. Ltd.,"0,0105%",Investment Services,JP,"342.440,42 USD",66.600
+7071,Amvis Holdings Inc.,"0,0102%",Health Care Facilities,JP,"333.558,18 USD",26.500
+8919,Katitas Co. Ltd.,"0,0101%",Home Construction,JP,"330.470,58 USD",32.600
+7780,Menicon Co. Ltd.,"0,0094%",Medical Supplies,JP,"305.134,75 USD",36.800
+3880,Daio Paper Corp.,"0,0092%",Paper,JP,"299.676,35 USD",53.200
+9090,AZ-COM MARUWA Holdings Inc.,"0,0086%",Transportation Services,JP,"279.609,28 USD",36.800
+8585,Orient Corp.,"0,0068%",Consumer Lending,JP,"220.183,91 USD",33.270
+4506,Sumitomo Pharma Co. Ltd.,"0,0061%",Pharmaceuticals,JP,"198.746,38 USD",102.400
